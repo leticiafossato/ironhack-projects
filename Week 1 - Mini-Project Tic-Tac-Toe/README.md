@@ -1,10 +1,10 @@
 # Week 1 Mini-Project: Tic-Tac-Toe
 ## TIC-TAC-TOE
 
-TIC-TAC-TOE is uselly played on a piece of paper, but if you copy this code you can play it on your own laptop.
-How it Works? Two players write either O or X in a pattern of nine squares. The first player who places three Os or three Xs in a straight line wins.
-In this virtual version, it's YOU x CPU.
-Good luck!
+TIC-TAC-TOE is uselly played on a piece of paper, but if you copy this code you can play it on your own laptop.<br />
+How it Works? Two players write either O or X in a pattern of nine squares. The first player who places three Os or three Xs in a straight line wins.<br />
+In this virtual version, it's YOU x CPU.<br />
+Good luck!<br />
 <b>How to play?</b> Copy the code of "TIC_TAC_TOE.ipynb" on your Python3 or JupyterNotebook and run.
 
 <b>Challenges:</b>
@@ -20,10 +20,10 @@ Ways of styling the text displayed (colors, bold etc).
 Reproduce this game using pygames library.
 
 <b>Theory in practice:</b>
-[x] Lists (necessary to creathe the graph of game and to structure all the logic);
-[x] Error Handling (to delimit inputs of user);
-[x] Loops (while and for);
-[x] Sub-functions (to organize and structure all code);
-[x] Classes (to format the colors of data displayed);
+[x] Lists (necessary to creathe the graph of game and to structure all the logic);<br />
+[x] Error Handling (to delimit inputs of user);<br />
+[x] Loops (while and for);<br />
+[x] Sub-functions (to organize and structure all code);<br />
+[x] Classes (to format the colors of data displayed);<br />
 
 
