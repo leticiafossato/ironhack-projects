@@ -6,7 +6,7 @@ How it Works? Two players write either O or X in a pattern of nine squares. The 
 In this virtual version, it's YOU x CPU.<br />
 Good luck!<br />
 <b>How to play?</b> Copy the code of "TIC_TAC_TOE.ipynb" on your Python3 or JupyterNotebook and run.
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.quora.com%2FExiste-uma-maneira-de-nunca-perder-no-Jogo-da-Velha-ou-Jogo-do-Galo&psig=AOvVaw1rWXDbnIqhzRiNRy8akLye&ust=1598308501003000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDM3KqxsusCFQAAAAAdAAAAABAD)
+![tic_tac_toe](https://uploaddeimagens.com.br/imagens/xqg7-5I)
 
 <b>Challenges:</b>
 - Find the best format to display and enter data;
