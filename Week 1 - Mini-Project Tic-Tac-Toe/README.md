@@ -10,7 +10,7 @@ Good luck!<br />
 
 <b>How proceed?</b> Copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or JupyterNotebook, then it's only run it.
 
-<b>MY LEARNING PROCESS:</b>
+<b>MY LEARNING PROCESS:</b><br />
 <b>Challenges:</b>
 - Find the best format to display and enter data;
 - Structure the winner's logic;
