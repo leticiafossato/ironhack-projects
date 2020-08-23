@@ -8,7 +8,7 @@ Good luck!<br />
 <b>How to play?</b> Copy the code of "TIC_TAC_TOE.ipynb" on your Python3 or JupyterNotebook and run.
 
 <div align="center">
-    <img src="https://imgur.com/a/8j0oTpV" width="400px"</img> 
+    <img src="https://i.imgur.com/SWSuAnY.jpg" width="400px"</img> 
 </div>
 
 <b>Challenges:</b>
