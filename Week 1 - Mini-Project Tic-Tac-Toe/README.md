@@ -7,7 +7,7 @@ In this virtual version, it's YOU x CPU.<br />
 Good luck!<br />
 
 ![img](https://i.imgur.com/SWSuAnY.jpg)
-![](https://media2.giphy.com/media/JmOzFeIBWW9AsGiFNO/giphy.gif)
+![](https://media0.giphy.com/media/JTtbeZQ5PREQFzohgC/giphy.gif)
 
 <b>How proceed?</b> Copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or JupyterNotebook, then it's only run it.
 
