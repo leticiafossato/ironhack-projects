@@ -7,8 +7,7 @@ In this virtual version, it's YOU x CPU.<br />
 Good luck!<br />
 <b>How to play?</b> Copy the code of "TIC_TAC_TOE.ipynb" on your Python3 or JupyterNotebook and run.
 
-<img src="https://i.imgur.com/SWSuAnY.jpg"</img> 
-
+![img](https://i.imgur.com/SWSuAnY.jpg)
 
 <b>Challenges:</b>
 - Find the best format to display and enter data;
