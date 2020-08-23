@@ -5,7 +5,7 @@ TIC-TAC-TOE is uselly played on a piece of paper, but if you copy this code you 
 How it Works? Two players write either O or X in a pattern of nine squares. The first player who places three Os or three Xs in a straight line wins
 In this virtual version, it's YOU x CPU.<br />
 Good luck!<br />
-<b>How proceed?</b> Copy the code of "TIC_TAC_TOE.ipynb" on your Python3 or JupyterNotebook and run.
+<b>How proceed?</b> Copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or JupyterNotebook, then it's only run it.
 
 ![img](https://i.imgur.com/SWSuAnY.jpg)
 
