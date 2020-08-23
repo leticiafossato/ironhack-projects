@@ -6,7 +6,10 @@ How it Works? Two players write either O or X in a pattern of nine squares. The 
 In this virtual version, it's YOU x CPU.<br />
 Good luck!<br />
 <b>How to play?</b> Copy the code of "TIC_TAC_TOE.ipynb" on your Python3 or JupyterNotebook and run.
-<img height=300 src="https://imgur.com/a/8j0oTpV">
+
+<div align="center">
+    <img src="https://imgur.com/a/8j0oTpV" width="400px"</img> 
+</div>
 
 <b>Challenges:</b>
 - Find the best format to display and enter data;
