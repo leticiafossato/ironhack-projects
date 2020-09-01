@@ -1,8 +1,6 @@
 # Week 2 - Shark Attacks
-
-> SHARK ATTACK DATABASE ANALYSIS
-
-> HOW MANY SHARK ACCIDENTS WAS FATAL, NOT FATAL OR UNKNOWN?
+## SHARK ATTACK DATABASE ANALYSIS
+### HOW MANY SHARK ACCIDENTS WAS FATAL, NOT FATAL OR UNKNOWN?
 
 
 ## Table of Contents:
@@ -48,10 +46,8 @@ shark_clean_non_fatal.csv
 shark_clean_unknown.csv
 
 ## Results 
-<br />
 The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents:
 ![fatal_graph](https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true)
-<br />
 Even if we sum the Unknown data do Fatal quantity:
 ![non_fatal_graph](https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true)
 
