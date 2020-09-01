@@ -1,6 +1,7 @@
 <p align="center">
   <img width="160" height="140" src="https://imgshare.io/images/2020/09/01/shark_attack.png">
 </p>
+<h1 align="center">Week 03</h>
 <h2 align="center">Are most shark accidents fatal or non-fatal?</h>
 
 ## Table of Contents:
@@ -26,7 +27,7 @@
 1°) Import database, analyse the lenght shape and store a backup;<br />
 2°) Clean the lines (drop mean>0.9 of null);<br />
 3°) Clean the columns (drop mean>0.9 of null);<br />
-4°) Drop CaseNumber2; <br />
+4°) Drop column CaseNumber2; <br />
 5°) Analyse the column 'Fatal (Y/N)':<br />
 - Type of data: <br />
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
@@ -39,21 +40,24 @@ NaN -> UNKNOWN<br />
 6°) Analyse the column 'Issues':<br />
 if 'Issues'=Fatal, than:
 repace UNKNOWN by Y<br />
-```python
-// code away!
-
-print('Hello World')
-  }
-};
-```
 7°) Export the database to Excel:<br />
 shark_clean_fatal.csv
 shark_clean_non_fatal.csv
 shark_clean_unknown.csv
 
 ## Results 
-The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents:
+The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents: </br>
 
+Qty Fatal = 1409 </br>
+Qty Non-Fatal = 4301  </br>
+Qty Unknown = 592 </br>
+ </br>
+ In percentage:
+% Fatal = 0.22357981593145032</br>
+% Non-Fatal = 0.6824817518248175</br>
+% Unknown = 0.09393843224373215</br>
+</br>
+Using the library matplotlib, we obtain this graph:
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true">
 
 'Fatal (1845 - 2018) Entire World
