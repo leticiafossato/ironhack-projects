@@ -54,5 +54,6 @@ Even if we sum the Unknown data do Fatal quantity:
 
 model_graph_source = https://matplotlib.org/3.3.1/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py
 
+<img align="right" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true">
 
 'Fatal (1845 - 2018) Entire World
