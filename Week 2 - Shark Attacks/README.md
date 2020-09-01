@@ -1,7 +1,7 @@
 <p align="center">
   <img width="160" height="140" src="https://imgshare.io/images/2020/09/01/shark_attack.png">
 </p>
-<p align="center">Are most shark accidents fatal or non-fatal?</p>
+<h1 align="center">Are most shark accidents fatal or non-fatal?</h>
 
 ## Table of Contents:
 
