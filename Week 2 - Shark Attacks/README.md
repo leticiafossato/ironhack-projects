@@ -47,12 +47,6 @@ shark_clean_unknown.csv
 
 ## Results 
 The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents:
-![fatal_graph](https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true)
-Even if we sum the Unknown data do Fatal quantity:
-![non_fatal_graph](https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true)
-
-
-model_graph_source = https://matplotlib.org/3.3.1/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py
 
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true">
 
