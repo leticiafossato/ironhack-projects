@@ -1,6 +1,6 @@
-![img](https://imgshare.io/images/2020/09/01/shark_attack.png)
-## SHARK ATTACK DATABASE ANALYSIS
-> Are most shark accidents fatal or non-fatal?
+<center>![img](https://imgshare.io/images/2020/09/01/shark_attack.png)</center>
+<center>## SHARK ATTACK DATABASE ANALYSIS</center>
+<center>> Are most shark accidents fatal or non-fatal?</center>
 
 
 ## Table of Contents:
