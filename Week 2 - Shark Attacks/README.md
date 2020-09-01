@@ -14,13 +14,12 @@
 
 ## Goal
 
-- Filter the dataset do discover how many shark accidents was fatal, not fatal or unknown.
+- Filter the dataset (source, site= http://www.sharkattackfile.net/whystudy.htm) to discover how many shark accidents was fatal, not fatal or unknown.
 
 ### Motivation
 
-- A fear of sharks was implanted in our mind by movies. 
-- More people death drown on USA per year than death by shark attacks on last two decades.
-- If that sentences above are true, we'll obtain low taxes of deaths.
+- An unreasonable fear of sharks has been implanted in our minds by the hype that surrounds the rare shark attack and by movies. 
+- Global Shark Attack File Informs that: more people drown in a single year in the United States than have been killed by sharks throughout the <b>entire world< in the last two centuries</b>. Is that true?
 
 ## Building
 
