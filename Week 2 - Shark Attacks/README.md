@@ -39,6 +39,13 @@ NaN -> UNKNOWN<br />
 6°) Analyse the column 'Issues':<br />
 if 'Issues'=Fatal, than:
 repace UNKNOWN by Y<br />
+```python
+// code away!
+
+print('Hello World')
+  }
+};
+```
 7°) Export the database to Excel:<br />
 shark_clean_fatal.csv
 shark_clean_non_fatal.csv
