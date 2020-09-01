@@ -15,7 +15,8 @@
 
 ## Goal
 
-- Filter the dataset (source, site= http://www.sharkattackfile.net/whystudy.htm) to discover how many shark accidents was fatal, not fatal or unknown.
+- Filter the dataset to discover how many shark accidents was fatal, not fatal or unknown.</br>
+(Source of database, site= http://www.sharkattackfile.net/whystudy.htm)
 
 ### Motivation
 
@@ -57,7 +58,7 @@ Qty Unknown = 592 </br>
 % Non-Fatal = 0.6824817518248175</br>
 % Unknown = 0.09393843224373215</br>
 </br>
-Using the library matplotlib, we obtain this graph:
+Using the library matplotlib, we obtain this graph:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true">
 
 'Fatal (1845 - 2018) Entire World
