@@ -1,25 +1,25 @@
-# Week 2 - Shark Attacks
+![img](https://imgshare.io/images/2020/09/01/shark_attack.png)
 ## SHARK ATTACK DATABASE ANALYSIS
-### HOW MANY SHARK ACCIDENTS WAS FATAL, NOT FATAL OR UNKNOWN?
+> Are most shark accidents fatal or non-fatal?
 
 
 ## Table of Contents:
 
-- [Objective](#objectives)
+- [Goal](#goal)
 - [Motivation](#motivation)
 - [Building](#building)
 - [Results](#results)
 
 ---
 
-## Objective
+## Goal
 
 - Filter the dataset do discover how many shark accidents was fatal, not fatal or unknown.
 
 ### Motivation
 
 - A fear of sharks was implanted in our mind by movies. 
-- More people death drown on USA by year than death by shark attacks on the lasts two decades.
+- More people death drown on USA per year than death by shark attacks on last two decades.
 - If that sentences above are true, we'll obtain low taxes of deaths.
 
 ## Building
@@ -51,3 +51,8 @@ The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents:
 Even if we sum the Unknown data do Fatal quantity:
 ![non_fatal_graph](https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true)
 
+
+model_graph_source = https://matplotlib.org/3.3.1/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py
+
+
+'Fatal (1845 - 2018) Entire World
