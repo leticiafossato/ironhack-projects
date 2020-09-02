@@ -88,4 +88,4 @@ I tried to create a graph with this information, but it doesn't fit.</br>
 > The white shark is the specie with more case attacks registered, but it is responsible for only 19 of fatal deaths.
 
 ## Improvements
-I answer the questions using mask, but if I restart I would use groupby to solve faster and clean the solution.
+I answer the questions using mask, but if I restart I would use groupby to solve faster and clear the solution.
