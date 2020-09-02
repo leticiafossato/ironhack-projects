@@ -51,9 +51,8 @@ repace UNKNOWN by Y</br>
 7°) Export the database to Excel:</br>
 shark_clean_fatal.csv</br>
 shark_clean_non_fatal.csv</br>
-shark_clean_unknown.csv</br>
-</br>
-</br>
+shark_clean_unknown.csv
+
 ## Results 
 </br>The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents: </br>
 
