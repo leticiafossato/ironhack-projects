@@ -22,7 +22,7 @@
 ### Motivation
 
 - An unreasonable fear of sharks has been implanted in our minds by the hype that surrounds the rare shark attack and by movies. 
-- Global Shark Attack File Informs that: more people drown in a single year in the United States than have been killed by sharks throughout the <b>entire world< in the last two centuries</b>. Is that true?
+- Global Shark Attack File Informs that: more people drown in a single year in the United States than have been killed by sharks throughout the <b>entire world< in the last two centuries </b> . Is that true?
 
 ## Building
 
@@ -69,7 +69,7 @@ Using the library matplotlib, we obtain this graph:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true"></br>
 > This result shows that: the quantity of shark attacks fatal is very low, so, fatal shark attacks rarely happen.</br>
 </br>
-Also, this database have informations since 1543(aproximated) to 2018. So, this is the quantity register for more than 475 years. <b>We have less than 3 fatal cases per year at the WORLD. Obs: This information is not precise because I don't focus on analyse the 'Year' column.</b></br>
+Also, this database have informations of before 1543 until 2018. Just for analysis, if we consider 1543 as the minimun(it isn't), 1409 is the quantity register for more than 475 years. <b>It means that we have about 3 (= 1409/475) fatal cases per year at the WORLD. Obs: This information is not precise because I don't focus on analyse the 'Year' column.</b></br>
 </br>
 To make a experience, I sum the Unknown rate to Fatal rate:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true">
@@ -84,7 +84,7 @@ To answer the question made on the beggining (drowns vs fatal shark) I would hav
 </br>
 
 ## Additional
-Using factal attacks, I also analyse the quantity of each type: </br>
+Using fatal attacks, I also analyse the quantity of each type: </br>
 provoked - 19</br>
 unprovoked- 1182</br>
 sea_disaster - 168</br>
