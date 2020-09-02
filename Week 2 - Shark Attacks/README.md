@@ -73,9 +73,11 @@ Also, this database have informations since 1845 to 2018. So, this is the quanti
 </br>
 To make a experience, I sum the Unknown rate to Fatal rate:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true">
->So, even if we sum the fatal rate to the unknown rate, the non-fatal still being greater.
+
+> So, even if we sum the fatal rate to the unknown rate, the non-fatal still being greater.
 </br>
-To answer the question made on the beggining (drowns vs fatal shark) I would have another database with these informations. But, I don't have, so I seach for the quantity of drowns on USA per year, and I found the number: 3536 </br>  (source: https://www.cdc.gov/homeandrecreationalsafety/water-safety/waterinjuries-factsheet.html#:~:text=From%202005%2D2014%2C%20there%20were,drowning%20in%20boating%2Drelated%20incidents.&text=About%20one%20in%20five%20people,are%20children%2014%20and%20younger.)</br>
+To answer the question made on the beggining (drowns vs fatal shark) I would have another database with these informations. But, I don't have, so I seach for the quantity of drowns on USA per year, and I found the number: 3536 </br>  
+<i>(source: https://www.cdc.gov/homeandrecreationalsafety/water-safety/waterinjuries-factsheet.html#:~:text=From%202005%2D2014%2C%20there%20were,drowning%20in%20boating%2Drelated%20incidents.&text=About%20one%20in%20five%20people,are%20children%2014%20and%20younger.)</br></i>
 
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Curiosity.png?raw=true"></br>
 >So, the GSAF (Global Shark Attack Files) affirmation was right. The fatal shark rate from (1845 - 2018) of Entire World is lower than drowns per year on USA.</br>
