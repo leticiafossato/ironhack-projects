@@ -81,11 +81,11 @@ boat - 4</br>
 questionable- 0</br>
 boatomg - 0 </br>
 I tried to create a graph with this information, but it doesn't fit.</br>
->> This result highlights that the shark attacks out of curiosity or unintentionally, more than by revenge.</br>
+> This result highlights that the shark attacks out of curiosity or unintentionally, more than by revenge.</br>
 
->> The sex with highest fatal rate is male (23,35%) vs female (16,95%). (approximated)
+> The sex with highest fatal rate is male (23,35%) vs female (16,95%). (approximated)
 
->> The white shark is the specie with more case attacks registered, but it is responsible for only 19 of fatal deaths.
+> The white shark is the specie with more case attacks registered, but it is responsible for only 19 of fatal deaths.
 
 ## Improvements
 I solved the exercises using mask, but if I restart I would use groupby to clean the solution.
