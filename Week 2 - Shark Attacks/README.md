@@ -17,7 +17,7 @@
 ## Goal
 
 - Filter the dataset to discover how many shark accidents was fatal, not fatal or unknown.</br>
-(Source of database, site= http://www.sharkattackfile.net/whystudy.htm)
+(Source of database = http://www.sharkattackfile.net/whystudy.htm)
 
 ### Motivation
 
@@ -51,7 +51,8 @@ repace UNKNOWN by Y</br>
 7°) Export the database to Excel:</br>
 shark_clean_fatal.csv</br>
 shark_clean_non_fatal.csv</br>
-shark_clean_unknown.csv
+shark_clean_unknown.csv</br>
+(Check Exported_Files path)
 
 ## Results 
 The quantity of Fatal Accidents is significantly lower than Non-Fatal Accidents: </br>
@@ -100,4 +101,4 @@ I tried to create a graph with this information, but it doesn't fit.</br>
 
 ## Improvements
 - I answer the questions using mask, but if I restart I would use groupby to solve faster and clear the solution.</br>
-- I focus on extract data to answer questions about the database, but the designs of csv file could be cleaned better (some columns with space renamed and data sorted by data).
+- I focus on extract data to answer questions about the database, but the designs of csv file could be cleaned better (some columns with space renamed and data sorted by year).
