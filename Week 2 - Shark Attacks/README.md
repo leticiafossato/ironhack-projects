@@ -54,7 +54,7 @@ shark_clean_non_fatal.csv</br>
 shark_clean_unknown.csv
 
 ## Results 
-</br>The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents: </br>
+The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents: </br>
 
 <b>Qty Fatal = 1409 </b></br>
 Qty Non-Fatal = 4301  </br>
