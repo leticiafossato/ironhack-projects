@@ -26,26 +26,26 @@
 
 ## Building
 
-1°) Import database, analyse the lenght shape and store a backup;<br />
-2°) Clean the lines (drop mean>0.9 of null);<br />
-3°) Clean the columns (drop mean>0.9 of null);<br />
-4°) Drop column CaseNumber2; <br />
-5°) Analyse the column 'Fatal (Y/N)':<br />
-- Type of data: <br />
+1°) Import database, analyse the lenght shape and store a backup;</br>
+2°) Clean the lines (drop mean>0.9 of null);</br>
+3°) Clean the columns (drop mean>0.9 of null);</br>
+4°) Drop column CaseNumber2; </br>
+5°) Analyse the column 'Fatal (Y/N)':</br>
+- Type of data: </br>
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
-<br />
-- Organizing:<br />
-N,N and N -> N<br />
-Y and y   -> Y<br />
-2017 and M -> UNKNOWN<br />
-NaN -> UNKNOWN<br />
-6°) Analyse the column 'Issues':<br />
+</br>
+- Organizing:</br>
+N,N and N -> N</br>
+Y and y   -> Y</br>
+2017 and M -> UNKNOWN</br>
+NaN -> UNKNOWN</br>
+6°) Analyse the column 'Issues':</br>
 if 'Issues'=Fatal, than:
-repace UNKNOWN by Y<br />
-7°) Export the database to Excel:<br />
-shark_clean_fatal.csv
-shark_clean_non_fatal.csv
-shark_clean_unknown.csv
+repace UNKNOWN by Y</br>
+7°) Export the database to Excel:</br>
+shark_clean_fatal.csv</br>
+shark_clean_non_fatal.csv</br>
+shark_clean_unknown.csv</br>
 
 ## Results 
 The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents: </br>
@@ -71,8 +71,8 @@ Also, this database have informations since 1845 to 2018. So, this is the quanti
 </br>
 To answer the question made on the beggining (drowns vs fatal shark) I would have another database with these informations. But, I don't have, so I seach for the quantity of drowns on USA per year, and I found the number: 3536 </br>  (source: https://www.cdc.gov/homeandrecreationalsafety/water-safety/waterinjuries-factsheet.html#:~:text=From%202005%2D2014%2C%20there%20were,drowning%20in%20boating%2Drelated%20incidents.&text=About%20one%20in%20five%20people,are%20children%2014%20and%20younger.)</br>
 
->So, the GSAF (Global Shark Attack Files) affirmation was right.
-The fatal shark rate from (1845 - 2018) of Entire World is greather than drowns per year at USA.</br>
+>So, the GSAF (Global Shark Attack Files) affirmation was right. The fatal shark rate from (1845 - 2018) of Entire World is lower than drowns per year on USA.</br>
+</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Curiosity.png?raw=true"></br>
 
 ## Additional
