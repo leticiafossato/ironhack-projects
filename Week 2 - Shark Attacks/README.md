@@ -70,3 +70,22 @@ To answer the question made on the beggining (drowns vs fatal shark) I would hav
 So, the GSAF (Global Shark Attack Files) affirmation was right.
 The fatal shark rate from (1845 - 2018) of Entire World is greather than drowns per year at USA.</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Curiosity.png?raw=true"></br>
+
+## Additional
+Using factal attacks, I also analyse the quantity of each type: </br>
+provoked - 19</br>
+unprovoked- 1182</br>
+sea_disaster - 168</br>
+boating - 67</br>
+boat - 4</br>
+questionable- 0</br>
+boatomg - 0 </br>
+I tried to create a graph with this information, but it doesn't fit.</br>
+>> This result highlights that the shark attacks out of curiosity or unintentionally, more than by revenge.</br>
+
+>> The sex with highest fatal rate is male (23,35%) vs female (16,95%). (approximated)
+
+>> The white shark is the specie with more case attacks registered, but it is responsible for only 19 of fatal deaths.
+
+## Improvements
+I solved the exercises using mask, but if I restart I would use groupby to clean the solution.
