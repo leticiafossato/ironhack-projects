@@ -26,10 +26,14 @@
 
 ## Building
 
-1°) Import database, analyse the lenght shape and store a backup;</br>
+1°) Import database, analyse the shape,analyse the sample and store a backup;</br>
+</br>
 2°) Clean the lines (drop mean>0.9 of null);</br>
+</br>
 3°) Clean the columns (drop mean>0.9 of null);</br>
+</br>
 4°) Drop column CaseNumber2; </br>
+</br>
 5°) Analyse the column 'Fatal (Y/N)':</br>
 - Type of data: </br>
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
@@ -39,14 +43,16 @@ N,N and N -> N</br>
 Y and y   -> Y</br>
 2017 and M -> UNKNOWN</br>
 NaN -> UNKNOWN</br>
+</br>
 6°) Analyse the column 'Issues':</br>
-if 'Issues'=Fatal, than:
+if 'Issues'=Fatal and 'Fatal (Y/N)'=UNKNOWN  than:
 repace UNKNOWN by Y</br>
+</br>
 7°) Export the database to Excel:</br>
 shark_clean_fatal.csv</br>
 shark_clean_non_fatal.csv</br>
 shark_clean_unknown.csv</br>
-
+</br>
 ## Results 
 The quantity of Fatal Accidents is significantly less than Non-Fatal Accidents: </br>
 
