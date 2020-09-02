@@ -70,7 +70,7 @@ Using the library matplotlib:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true"></br>
 > Conclusion: Fatal shark attacks rarely happen.</br>
 </br>
-Also, this database have informations before 1543 until 2018. Just for analysis, if we consider 1543 as the minimun(it isn't), 1409 is the quantity register for more than 475 years. <b>It means that we have about 3 (= 1409/475) fatal cases per year at the WORLD. Obs: This information is not precise because I don't focus on analyse the 'Year' column.</b></br>
+Also, this database have informations before 1801 until 2018. Just for analysis, if we consider 1801 as the minimun(it isn't), 1409 is the quantity register for more than 217 years. <b>It means that we have about 7 (= 1409/217) fatal cases per year at the WORLD. Obs: This information is not precise because I don't focus on analyse the 'Year' column.</b></br>
 </br>
 To make a experience, I sum the Unknown rate to Fatal rate:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true">
