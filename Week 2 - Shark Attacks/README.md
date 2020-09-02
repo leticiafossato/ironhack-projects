@@ -62,7 +62,7 @@ Qty Unknown = 592 </br>
 Using the library matplotlib, we obtain this graph:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true"></br>
 > This result shows that: the quantity of shark attacks fatal is very low, so, fatal shark attacks rarely happen.
-Also, this database have informations since 1845 to 2018. So, this is the quantity register for more than 173 years. <b>We have less than 8 fatal cases per year at the WORLD.</b></br>
+</br>Also, this database have informations since 1845 to 2018. So, this is the quantity register for more than 173 years. <b>We have less than 8 fatal cases per year at the WORLD.</b></br>
 > The next graph illustrate that, even if we sum the fatal rate to the unknown rate, the non-fatal still being greater:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Week%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true">
 </br>
