@@ -60,7 +60,7 @@ The quantity of Fatal Accidents is significantly lower than Non-Fatal Accidents:
 Qty Non-Fatal = 4301  </br>
 Qty Unknown = 592 </br>
  </br>
- In percentage:
+ In percentage:</br>
 <b>% Fatal = 0.22357981593145032</br></b>
 % Non-Fatal = 0.6824817518248175</br>
 % Unknown = 0.09393843224373215</br>
