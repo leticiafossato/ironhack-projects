@@ -101,4 +101,4 @@ I tried to create a graph with this information, but it doesn't fit.</br>
 
 ## Improvements
 - I answer the questions using mask, but if I restart I would use groupby to solve faster and clear the solution.</br>
-- I focus on extract data to answer questions about the database, but the designs of dataset cleaned could be better (some columns with space renamed and data ordered by data).
+- I focus on extract data to answer questions about the database, but the designs of csv file could be cleaned better (some columns with space renamed and data ordered by data).
