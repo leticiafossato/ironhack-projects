@@ -90,8 +90,7 @@ unprovoked- 1182</br>
 sea_disaster - 168</br>
 boating - 67</br>
 boat - 4</br>
-questionable- 0</br>
-boatomg - 0 </br>
+
 I tried to create a graph with this information, but it doesn't fit.</br>
 > This result highlights that the shark attacks out of curiosity or unintentionally, more than by revenge.</br>
 
