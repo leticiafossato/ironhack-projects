@@ -22,7 +22,7 @@
 ### Motivation
 
 - An unreasonable fear of sharks has been implanted in our minds by the hype that surrounds the rare shark attack and by movies. 
-- Global Shark Attack File Informs that: more people drown in a single year in the United States than have been killed by sharks throughout the <b>entire world< in the last two centuries </b> . Is that true?
+- Global Shark Attack File Informs: more people drown in a single year in the United States than have been killed by sharks throughout the <b>entire world< in the last two centuries </b> . Is that true?
 
 ## Building
 
