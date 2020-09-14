@@ -63,7 +63,7 @@ Generate: highest_earnings_all_games_brazil.csv<br>
 Source=<a href="https://www.esportsearnings.com/countries/br">Top 100 Highest Overall Earnings - Brazil</a><br>
 <br>
 
-7°) List of all DataBase exported to Excel:</br>
+11°) List of all DataBase exported to Excel:</br>
 MAIN: top_players.csv<br>
 MAIN: top_friends.csv<br>
 top_and_friends.csv<br>
