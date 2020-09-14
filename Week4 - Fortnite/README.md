@@ -72,7 +72,7 @@ highest_earnings_all_games_brazil.csv<br>
 
  
 ### Part2
-Insights be analyse, by graphs, at Part II:<br>
+Options to be analyse, by graphs, at Part II:<br>
  - Compare if the player which wins more money is the player with more kills per minute; <br>
  - Compare if the player which wins more money is the player with more kills per match;<br>
  - Analysing how many players with earns more money, earn it playing fortnite;<br>
