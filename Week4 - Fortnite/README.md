@@ -1,3 +1,4 @@
+<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/MRQxfbv/IMAGE.jpg" alt="IMAGE" border="0"></a></p>
 <p align="center"><h1 align="center">Week 04</h></p>
 <h2 align="center">:arrow_forward: Data Gathering & Visualization - PART 1</h>
 <h3 align="center">:video_game: Fornite Ranking</h>
@@ -19,10 +20,10 @@
 
 ### Motivation
 
-- On teh quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
-This motivated me to search about the best players of the game, and how many money them earns money just playing.<br>
-Also, I wanted to compare my account score with my friends and with the pro-players.<br>
-The motivated is fun, but we can take a deep analysis of the game with the data presented here.<br>
+- On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
+This motivated me to search about the best players of the game, and how many money them earns just playing.<br>
+Also, I want to compare my account score with my friends and with pro-players.<br>
+The motivated is funny, but it's possible to make deep analysis  with these data.<br>
 
 ## Building
 
