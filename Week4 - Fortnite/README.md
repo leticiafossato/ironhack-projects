@@ -7,7 +7,7 @@
 - [Goal](#goal)
 - [Motivation](#motivation)
 - [Building](#building)
-- [Part2](#insights)
+- [Part2](#part2)
 
 ---
 
