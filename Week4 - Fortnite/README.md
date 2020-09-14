@@ -78,3 +78,5 @@ Options to be analyse, by graphs, at Part II:<br>
  - Analysing how many players with earns more money, earn it playing fortnite;<br>
  - Compare wich of my friends kills more, and compare us with pro players;<br>
  - Analyse how many brazilians it's on the top 100 of the world;<br>
+
+<a href="https://ibb.co/0VN8q8c"><img src="https://i.ibb.co/TqXpcpk/Quick-DBD-Free-Diagram.png" alt="Quick-DBD-Free-Diagram" border="0"></a>
