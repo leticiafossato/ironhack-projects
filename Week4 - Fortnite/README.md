@@ -1,5 +1,5 @@
 <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/L0C0q84/IMAGE.jpg" alt="IMAGE" border="0"></a></a></p>
-<h1 align="center">Week 04 :arrow_forward: Data Gathering & Visualization - PART 1</h>
+<h1 align="center">:large_blue_diamond: Data Gathering & Visualization - PART 1</h>
 <h2 align="center">:video_game: Fornite Ranking</h>
 
 ## Table of Contents:
