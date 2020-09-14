@@ -17,10 +17,6 @@
 - Use raw web-scraping to collect the data from another source;<br>
 - Store the results on your own database.
 
-Sources web-scraping:
-<a href="https://www.esportsearnings.com/players/highest-overall">Top 100 Highest Overall Earnings</a> <br>
-<a href="https://www.esportsearnings.com/countries/br">Top 100 Highest Overall Earnings - Brazil</a><br>
-
 ### Motivation
 
 - On teh quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
@@ -35,7 +31,7 @@ Criteria of TOP: players who earned more money playing<br>
 Source=<a href="https://www.esportsearnings.com/games/534-fortnite/top-players">Top 100 Fornite Players</a> <br>
 <br>
 2°) Web Scraping to get the top 101-200 players - Fortnite<br>
-<a href="https://www.esportsearnings.com/games/534-fortnite/top-players-x100">Top 101-200 Fornite Players</a><br> 
+Source=<a href="https://www.esportsearnings.com/games/534-fortnite/top-players-x100">Top 101-200 Fornite Players</a><br> 
 <br>
 3°) Concatenate both columns;<br>
 <br>
@@ -59,9 +55,11 @@ Generate: top_and_friends.csv</br>
 <br>
 9°)Web Scraping to get Top 100 Highest Overall Earnings (players which earns more money from all games);<br>
 Generate: highest_earnings_all_games.csv<br>
+Source=<a href="https://www.esportsearnings.com/players/highest-overall">Top 100 Highest Overall Earnings</a> <br>
 <br>
 10°) Top 100 Highest Overall Earnings - Brazil<br>
 Generate: highest_earnings_all_games_brazil.csv<br>
+Source=<a href="https://www.esportsearnings.com/countries/br">Top 100 Highest Overall Earnings - Brazil</a><br>
 <br>
 
 7°) List of all DataBase exported to Excel:</br>
