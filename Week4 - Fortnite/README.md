@@ -1,3 +1,4 @@
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/MRQxfbv/IMAGE.jpg" alt="IMAGE" border="0"></a>
 <h1 align="center">Week 04</h>
 <h2 align="center">:arrow_forward: Data Gathering & Visualization - PART 1</h>
 <h3 align="center">:video_game: Fornite Ranking</h>
