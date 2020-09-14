@@ -44,7 +44,7 @@ Source=<a href="https://www.esportsearnings.com/games/534-fortnite/top-players">
 5°) API to get the information about top players<br>
 Data Cleaning (to remove columns with more than 80% null)<br>
 Data Cleaning (to rename columns)<br>
-<a href="https://dash.fortnite-api.com/">API Source <br>
+<a href="https://dash.fortnite-api.com/">API Source <br></a>
 <br>
 6°)Merge informations (obtained by API and Web Scrap); <br>
 Generate: top_players.csv<br>
