@@ -36,7 +36,7 @@ Here, will be analyzed only informations about Solo.
 </p>
 
 ## Step-to-Step
-- Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup;<br>
+- Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup 2019;<br>
 - Use an API to collect the data about TOP 25 players (It's not informations about the World Cup);<br>
 <a href="https://dash.fortnite-api.com/">API Source <br></a>
 - Filter the players which profile it's privated or the data it's unavailable;<br>
