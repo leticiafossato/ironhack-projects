@@ -24,6 +24,7 @@ What is the Fortnite pro-players requirements?
 - On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
 This motivated me to search about the best players of the game, and how many money they earns just playing.<br>
 Also, I want to compare my account stats with pro-players.<br>
+![Marvel](https://i.imgur.com/AUbj4rS.jpg)
 
 ## Fortnite
 It's a FPS Online Game.<br> 
