@@ -8,6 +8,7 @@
 - [Fortnite](#Fortnite)
 - [Goal](#goal)
 - [Step-to-Step](#Step-to-Step)
+- [Tableau](#Tableau)
 - [Status](#status)
 ---
 
