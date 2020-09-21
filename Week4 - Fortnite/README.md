@@ -31,7 +31,9 @@ Each match have 100 players. <br>
 You can shot and also construct to deffend yourself.<br>
 The Game Have 4 Modes: Solo, Duo, Squad, Creative.<br> 
 Here, will be analyzed only informations about Solo.
-![Marvel](https://i.imgur.com/AUbj4rS.jpg)
+<p align="center">
+  <img src="https://i.imgur.com/AUbj4rS.jpg">
+</p>
 
 ## Step-to-Step
 - Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup;<br>
