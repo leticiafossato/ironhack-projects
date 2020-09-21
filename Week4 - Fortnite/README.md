@@ -37,11 +37,11 @@ Here, will be analyzed only informations about Solo.
 
 ## Step-to-Step
 - Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup;<br>
-- Use an API to collect the data about TOP 25 players (It's not informations about the World Cup).<br>
+- Use an API to collect the data about TOP 25 players (It's not informations about the World Cup);<br>
 <a href="https://dash.fortnite-api.com/">API Source <br></a>
-- Filter the players which profile it's privated or the data it's unavailable.<br>
-- Use an API to collect my data.<br>
-- Store the results on my own database.<br>
+- Filter the players which profile it's privated or the data it's unavailable;<br>
+- Use an API to collect my data;<br>
+- Store the results on my own database;<br>
 - Analyze results on Tableau.<br>
 
 ## Challange
