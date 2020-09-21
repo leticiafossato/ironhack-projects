@@ -12,7 +12,7 @@
 ---
 
 ## Goal
-What is the Fortnite pro-players requirements? 
+What are Fortnite pro-players performance? 
 - Solo Matches
 - Solo Minutes Played
 - Solo Kills / Match
