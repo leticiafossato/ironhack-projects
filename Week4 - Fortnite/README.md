@@ -7,8 +7,7 @@
 - [Goal](#goal)
 - [Motivation](#motivation)
 - [Fortnite](#Fortnite)
-- [Building](#building)
-- [Building](#building)
+- [Step-to-Step](#Step-to-Step)
 - [Status](#status)
 ---
 
