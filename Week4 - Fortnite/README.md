@@ -4,12 +4,17 @@
 
 ## Table of Contents:
 
-- [Goal](#goal)
 - [Motivation](#motivation)
+- [Goal](#goal)
 - [Fortnite](#Fortnite)
 - [Step-to-Step](#Step-to-Step)
 - [Status](#status)
 ---
+
+## Motivation
+On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
+This motivated me to search about the best players of the game, and how many money they earns just playing.<br>
+Also, I want to compare my account stats with pro-players.<br>
 
 ## Goal
 What are Fortnite pro-players performance? 
@@ -17,12 +22,6 @@ What are Fortnite pro-players performance?
 - Solo Minutes Played
 - Solo Kills / Match
 - Solo Kills / Minutes
-
-
-## Motivation
-- On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
-This motivated me to search about the best players of the game, and how many money they earns just playing.<br>
-Also, I want to compare my account stats with pro-players.<br>
 
 ## Fortnite
 It's a FPS Online Game.<br> 
