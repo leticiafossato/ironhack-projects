@@ -6,28 +6,35 @@
 
 - [Goal](#goal)
 - [Motivation](#motivation)
+- What is Fortnite?(#What is Fortnite?)
 - [Building](#building)
 - [Part2](#part2)
-- [Entity-Relationship-Diagram](#Entity-Relationship-Diagram)
+
 
 ---
 
 ## Goal
+What is the Fortnite pro-players profile?
 
-- Use an API (or API wrapper) to collect the data from one source;<br>
-- Use raw web-scraping to collect the data from another source;<br>
-- Store the results on your own database.
+## Motivation
+- On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
+This motivated me to search about the best players of the game, and how many money they earns just playing.<br>
+Also, I want to compare my account stats with pro-players.<br>
+
+## What is Fortnite?
+It's a FPS Game, where you need to shot and to construct to deffend yourself.<br>
+
+## Step-to-Step
+
+- Use raw web-scraping to collect who are TOP 25 players classified at Fortnite's World Cup;
+- Use an API (or API wrapper) to collect the data about TOP 25 players classified at Fortnite's World Cup.<br><br>
+- Store the results on my own database.
 
 ### Motivation
 
-- On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
-This motivated me to search about the best players of the game, and how many money them earns just playing.<br>
-Also, I want to compare my account score with my friends and with pro-players.<br>
-The motivated is funny, but it's possible to make deep analysis  with these data.<br>
-
 ## Building
 
-1°) Web Scraping to get the top 100 players - Fortnite<br>
+1°) Web Scraping to get the top 25 players - Fortnite<br>
 Criteria of TOP: players who earned more money playing<br>
 Source=<a href="https://www.esportsearnings.com/games/534-fortnite/top-players">Top 100 Fornite Players</a> <br>
 <br>
@@ -63,23 +70,7 @@ Generate: highest_earnings_all_games_brazil.csv<br>
 Source=<a href="https://www.esportsearnings.com/countries/br">Top 100 Highest Overall Earnings - Brazil</a><br>
 <br>
 
-11°) List of all DataBase exported to Excel:</br>
-MAIN: top_players.csv<br>
-MAIN: top_friends.csv<br>
-top_and_friends.csv<br>
-highest_earnings_all_games.csv<br>
-highest_earnings_all_games_brazil.csv<br>
-(Check Exported_Files path)
-
  
 ### Part2
 Options to be analyse, by graphs, at Part II:<br>
- - Compare if the player which wins more money is the player with more kills per minute; <br>
- - Compare if the player which wins more money is the player with more kills per match;<br>
- - Analysing how many players with earns more money, earn it playing fortnite;<br>
- - Compare wich of my friends kills more, and compare us with pro players;<br>
- - Analyse how many brazilians it's on the top 100 of the world;<br>
- 
-### Entity-Relationship-Diagram
-
-<p align="center"><a href="https://ibb.co/0VN8q8c"><img src="https://i.ibb.co/TqXpcpk/Quick-DBD-Free-Diagram.png" alt="Quick-DBD-Free-Diagram" border="0"></a></p>
+https://public.tableau.com/profile/leticia.fossato#!/vizhome/Proj-Fortnite/Histria1?publish=yes
