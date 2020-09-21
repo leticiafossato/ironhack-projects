@@ -45,7 +45,8 @@ Here, will be analyzed only informations about Solo.
 - Analyze results on Tableau.<br>
 
 ## Challange
-- Low public information about Fortnite.
+- Low public information about Fortnite to analyze;
+- Make the subject interesting for who don't play.
 
 ## Tableau
 <a href="https://public.tableau.com/profile/leticia.fossato#!/vizhome/Proj-Fortnite/Histria1?publish=yes">Tableau Public</a>
