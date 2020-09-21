@@ -28,6 +28,7 @@ Also, I want to compare my account stats with pro-players.<br>
 ## Fortnite
 It's a FPS Online Game.<br> 
 To win a match, you need to be the last one to survive.<br>
+Each match have 100 players. <br>
 You can shot and also construct to deffend yourself.<br>
 The Game Have 4 Modes: Solo, Duo, Squad, Creative.<br> 
 Here, will be analyzed only informations about Solo.
