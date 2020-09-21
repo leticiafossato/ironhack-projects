@@ -5,8 +5,8 @@
 ## Table of Contents:
 
 - [Motivation](#motivation)
-- [Goal](#goal)
 - [Fortnite](#Fortnite)
+- [Goal](#goal)
 - [Step-to-Step](#Step-to-Step)
 - [Status](#status)
 ---
@@ -15,13 +15,6 @@
 On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
 This motivated me to search about the best players of the game, and how many money they earns just playing.<br>
 Also, I want to compare my account stats with pro-players.<br>
-
-## Goal
-What are Fortnite pro-players performance? 
-- Solo Matches
-- Solo Minutes Played
-- Solo Kills / Match
-- Solo Kills / Minutes
 
 ## Fortnite
 It's a FPS Online Game.<br> 
@@ -33,6 +26,13 @@ Here, will be analyzed only informations about Solo.
 <p align="center">
   <img src="https://i.imgur.com/AUbj4rS.jpg">
 </p>
+
+## Goal
+What are Fortnite pro-players performance? 
+- Solo Matches
+- Solo Minutes Played
+- Solo Kills / Match
+- Solo Kills / Minutes
 
 ## Step-to-Step
 - Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup 2019;<br>
