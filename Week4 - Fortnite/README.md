@@ -41,6 +41,9 @@ Here, will be analyzed only informations about Solo.
 - Store the results on my own database.<br>
 - Analyze results on Tableau.<br>
 
+## Challange
+- Low public information about Fortnite.
+
 ## Tableau
 <a href="https://public.tableau.com/profile/leticia.fossato#!/vizhome/Proj-Fortnite/Histria1?publish=yes">Tableau Public</a>
 
