@@ -6,7 +6,7 @@
 
 - [Goal](#goal)
 - [Motivation](#motivation)
-- [What is Fortnite?](#What is Fortnite?)
+- [Fortnite](#Fortnite)
 - [Building](#building)
 ---
 
@@ -23,7 +23,7 @@ What is the Fortnite pro-players requirements?
 This motivated me to search about the best players of the game, and how many money they earns just playing.<br>
 Also, I want to compare my account stats with pro-players.<br>
 
-## What is Fortnite?
+## Fortnite
 It's a FPS Online Game.<br> 
 To win a match, you need to be the last one to survive.<br>
 You can shot and also construct to deffend yourself.<br>
