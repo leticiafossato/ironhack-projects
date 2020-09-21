@@ -6,7 +6,7 @@
 
 - [Goal](#goal)
 - [Motivation](#motivation)
-- [What is Fortnite?](#Fortnite?)
+- [What is Fortnite?](#What is Fortnite?)
 - [Building](#building)
 ---
 
