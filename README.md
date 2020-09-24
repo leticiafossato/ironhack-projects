@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/52d2ff8778b60261533a7dba8dd989c6893a519b/68747470733a2f2f692e696d6775722e636f6d2f315167724e4e772e706e67">
-<br><h1> IronHack Projects</h1><br>
+<h1> IronHack Projects</h1>
 Here you can check 4 projects, developed by me, during Data Analytics - IronHack course.<br>
 This is the beggining of my studies to become a Data analyst.<br>
 Course: In progress - Week 06 / Week 09
