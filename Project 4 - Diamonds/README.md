@@ -25,5 +25,5 @@ Datasets was provided by IronHack. <br>
 ## Process
 - Import the dataframe;
 - Create a first baseline predicting the price using the mean;
-- Start to Explore Data Analysis and Clean the Data;
+- Start to Explore and Clean the Data;
 
