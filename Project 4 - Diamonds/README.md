@@ -34,11 +34,14 @@ Datasets was provided by IronHack. <br>
 - Improve the model until RMSE (root mean squared error) < 900.
 
 ## Results
+After a lot of attempts, we obtained:
+
+<a href="https://ibb.co/SBP2gFW"><img src="https://i.ibb.co/yqXDCHG/resultado-reg-lin.jpg" alt="resultado-reg-lin" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'><br/>
+ 
+ ### Image summary:
 |    R²   |  RMSE  |
 |  -----  | -------|
 | 95.38%  |    853 |
-
-<a href="https://ibb.co/SBP2gFW"><img src="https://i.ibb.co/yqXDCHG/resultado-reg-lin.jpg" alt="resultado-reg-lin" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'><br/>
      
 ## Learning Process
 
