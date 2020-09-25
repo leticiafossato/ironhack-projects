@@ -1,5 +1,5 @@
 <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/s5zqxjj/DIAMOND3.png" alt="DIAMOND3" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a></p>
-<h1 align="center">📈 Project 04 </h1><br><h2>Linear Regression </h2>
+<h1 align="center">📈 Project 04 </h1><h2 align="center">Linear Regression </h2>
 
 ## Project Status
 :heavy_check_mark: Complete
