@@ -30,11 +30,14 @@ Datasets was provided by IronHack. <br>
      - Search for outliers - comparing mean and median;
      - Calculate values to correct x,y and z;
      - Check correlations.
-- Apply the linear regression to predict the prices of diamonds.
+- Apply the linear regression to predict the prices of diamonds;
 - Improve the model until RMSE (root mean squared error) < 900.
 
 ## Results
+|  R²        |        |
+|  RMSE      |   853  |
+
 
 ## Authors
-Letícia Fossato
+Letícia Fossato <br>
 [Gabriela Nakasato](https://github.com/gabrielanakasato)
