@@ -1,6 +1,8 @@
 <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/191jNxw/FORTNITE.png" alt="FORTNITE" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a></p>
 <h1 align="center">🔎 Project 03  | Data Gathering & Visualization</h>
-<h2 align="center">:video_game: Fortnite</h>
+
+## Project Status
+:heavy_check_mark: Complete
 
 ## Table of Contents:
 
