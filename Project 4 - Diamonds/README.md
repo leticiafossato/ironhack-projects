@@ -31,3 +31,6 @@ Datasets was provided by IronHack. <br>
      - Calculate values to correct x,y and z;
      - Check correlations.
 - Apply the linear regression to predict the prices of diamonds.
+- Improve the model until RMSE (root mean squared error) < 900.
+
+## Results
