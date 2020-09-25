@@ -9,7 +9,7 @@
 - [Resources](#Resources)
 - [Process](#Process)
 - [Results](#Results)
-- [Learning Process](#Learning_Process)
+- [Learning Process](#Learning-Process)
 - [Authors](#Authors)
 
 ## Objective
