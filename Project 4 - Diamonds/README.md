@@ -1,4 +1,4 @@
-<a href="https://pngtree.com/so/diamond icons?sce=attr">diamond icons png from pngtree.com</a>
+<a href="https://ibb.co/rQW6sSd"><img src="https://i.ibb.co/j8pMR2J/Pngtree-realistic-diamond-on-white-background-5275882.png" alt="Pngtree-realistic-diamond-on-white-background-5275882" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
 
 <h1>📈 Project 04 | Linear Regression </h1>
 
