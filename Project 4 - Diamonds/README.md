@@ -36,8 +36,7 @@ Datasets was provided by IronHack. <br>
 ## Results
 After a lot of attempts, we obtained:
 
-<a href="https://ibb.co/SBP2gFW"><img src="https://i.ibb.co/yqXDCHG/resultado-reg-lin.jpg" alt="resultado-reg-lin" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>
-
+<a href="https://ibb.co/SBP2gFW"><img src="https://i.ibb.co/yqXDCHG/resultado-reg-lin.jpg" alt="resultado-reg-lin" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a>
  ### Image summary:
 |    R²   |  RMSE  |
 |  -----  | -------|
