@@ -3,7 +3,7 @@
 
 ## Project Status
 :heavy_check_mark: Complete <br>
-➕ Improve Tableau Presentation using some classes tips.
+➕ Improve Tableau Presentation using some classes tips
 
 ## Table of Contents:
 
