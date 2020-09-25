@@ -12,7 +12,6 @@
 - [Goal](#goal)
 - [Step-to-Step](#Step-to-Step)
 - [Tableau](#Tableau)
-- [Status](#status)
 ---
 
 ## Motivation
@@ -54,5 +53,3 @@ What are Fortnite pro-players performance?
 ## Tableau
 <a href="https://public.tableau.com/profile/leticia.fossato#!/vizhome/Proj-Fortnite/Histria1?publish=yes">Tableau Public</a>
 
-## Status
-In Progress
