@@ -1,5 +1,5 @@
 <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/L0C0q84/IMAGE.jpg" alt="IMAGE" border="0"></a></a></p>
-<h1 align="center">:small_blue_diamond: Project 03  | Data Gathering & Visualization</h>
+<h1 align="center">🔎 Project 03  | Data Gathering & Visualization</h>
 <h2 align="center">:video_game: Fortnite</h>
 
 ## Table of Contents:
