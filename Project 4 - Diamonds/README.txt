@@ -1,20 +1,20 @@
-Project 04 | Linear Regression :pencil2:
+<h1>Project 04 | Linear Regression 📈</h1>
 
-Project Status
+<h2>Project Status</h2>
 :heavy_check_mark: Complete
 
-Table of Content
-[Objective]](#Objective)
-[Data Source](#Data Source)
-[Resources](#Resources)
-[Process](#Process)
-[Results](#Results)
-[Learning Process](#Learning Process)
+<h2>Table of Content</h2>
+- [Objective]](#Objective)
+- [Data Source](#Data Source)
+- [Resources](#Resources)
+- [Process](#Process)
+- [Results](#Results)
+- [Learning Process](#Learning Process)
 
-##Objective
-The objective of this project is to create a model to predict prices of diamonds, practicing linear regression.
+##Goal
+The objective of this project is to create a model to predict prices of diamonds, using linear regression.
 
-Problem Statement
+##Problem Statement
 > The price predicted needs to have a root mean squared error lower than 900 dollars.
 
 ##Resources
