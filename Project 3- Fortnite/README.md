@@ -2,8 +2,8 @@
 <h1 align="center">🔎 Project 03  | Data Gathering & Visualization</h>
 
 ## Project Status
-:heavy_check_mark: Complete
-➕ Improve Tableau Presentation
+:heavy_check_mark: Complete <br>
+➕ Improve Tableau Presentation using some classes tips.
 
 ## Table of Contents:
 
