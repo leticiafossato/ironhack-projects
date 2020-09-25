@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/5k4Xwxc/DIAMOND.png" alt="DIAMOND" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5k4Xwxc/DIAMOND.png" alt="DIAMOND" border="0" width="200" height="200"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
 
 <h1>📈 Project 04 | Linear Regression </h1>
 
