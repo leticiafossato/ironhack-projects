@@ -5,11 +5,11 @@
 
 ## Table of Contents 
 - [Objective](#objective)
-- [Data Source](#data_source)
 - [Resources](#Resources)
 - [Process](#Process)
 - [Results](#Results)
 - [Learning Process](#Learning_Process)
+- [Authors](#Authors)
 
 ## Objective
 The objective of this project is to create a model to predict prices of diamonds, practicing linear regression.
@@ -34,3 +34,7 @@ Datasets was provided by IronHack. <br>
 - Improve the model until RMSE (root mean squared error) < 900.
 
 ## Results
+
+## Authors
+Letícia Fossato
+[Gabriela Nakasato](https://github.com/gabrielanakasato)
