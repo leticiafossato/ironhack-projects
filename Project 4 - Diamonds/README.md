@@ -36,7 +36,7 @@ Datasets was provided by IronHack. <br>
 ## Results
 |    R²   |  RMSE  |
 |  -----  | -------|
-|         |   853  |
+| 95.38%  |   853  |
 
 
 ## Authors
