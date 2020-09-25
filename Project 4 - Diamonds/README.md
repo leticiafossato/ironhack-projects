@@ -1,4 +1,6 @@
-<h1>Project 04 | Linear Regression 📈</h1>
+<a href="https://ibb.co/cLG8m44"><img src="https://i.ibb.co/3zDFJgg/Diamond-vector-icon-isolated-on-transparent-background-Diamond-logo-concept.jpg" alt="Diamond-vector-icon-isolated-on-transparent-background-Diamond-logo-concept" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
+
+<h1>📈 Project 04 | Linear Regression </h1>
 
 ## Project Status
 :heavy_check_mark: Complete
