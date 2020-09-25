@@ -14,7 +14,7 @@
 ## Objective
 The objective of this project is to create a model to predict prices of diamonds, practicing linear regression.
 
-###Problem Statement
+### Problem Statement
 > The price predicted needs to have a root mean squared error lower than 900 dollars.
 
 ## Resources
@@ -23,4 +23,7 @@ Datasets was provided by IronHack. <br>
 00-rick_diamonds.csv<br>
 
 ## Process
+- Import the dataframe;
+- Create a first baseline predicting the price using the mean;
+- Start to Explore Data Analysis and Clean the Data;
 
