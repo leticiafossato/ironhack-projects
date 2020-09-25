@@ -4,12 +4,12 @@
 :heavy_check_mark: Complete
 
 <h2>Table of Content</h2>
-[Objective]](#Objective)
-[Data Source](#Data Source)
-[Resources](#Resources)
-[Process](#Process)
-[Results](#Results)
-[Learning Process](#Learning Process)
+- [Objective](#objective)
+- [Data Source](#data source)
+- [Resources](#Resources)
+- [Process](#Process)
+- [Results](#Results)
+- [Learning Process](#Learning Process)
 
 ## Objective
 The objective of this project is to create a model to predict prices of diamonds, practicing linear regression.
