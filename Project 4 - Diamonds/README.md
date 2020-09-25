@@ -34,8 +34,9 @@ Datasets was provided by IronHack. <br>
 - Improve the model until RMSE (root mean squared error) < 900.
 
 ## Results
-|  R²        |        |
-|  RMSE      |   853  |
+|   R²  |  RMSE  |
+| ----- | -------|
+|       |  853  |
 
 
 ## Authors
