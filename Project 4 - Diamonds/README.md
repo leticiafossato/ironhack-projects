@@ -24,6 +24,9 @@ Datasets was provided by IronHack. <br>
 
 ## Process
 - Import the dataframe;
-- Create a first baseline predicting the price using the mean;
-- Start to Explore and Clean the Data;
-
+- Create a first baseline predicting the price by the mean;
+- Start to Explore and Clean the Data:
+     - Check null values;
+     - Search for outliers - comparing mean and median;
+     - Calculate values to correct x,y and z;
+     - Check correlations.
