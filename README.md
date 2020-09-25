@@ -19,7 +19,7 @@ Status: Complete<br>
 ## 🔎 Project 3 | Web Scraping, API & Visual Analytics - Fortnite
 Goal1: Answer some question (free theme), Using Web Scraping and API.<br>
 Goal2: Present results using Tableau.<br>
-I choose to search for informations about Fortnite (a shooting game very famous, from Epic Games), to answer: "What are Fortnite pro-players performance?".
+I choose to search for informations about Fortnite (a shooting game very famous, from Epic Games), to answer: "What are Fortnite pro-players performance?".<br>
 Status: Improve Tableau Presentation<br>
 <br>
 ## 📈 Project 4 | Diamonds - Linear Regression
