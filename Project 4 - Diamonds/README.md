@@ -38,8 +38,20 @@ Datasets was provided by IronHack. <br>
 |  -----  | -------|
 | 95.38%  |    853 |
 
-<a href="https://ibb.co/SBP2gFW"><img src="https://i.ibb.co/yqXDCHG/resultado-reg-lin.jpg" alt="resultado-reg-lin" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>album foto online</a><br />
+<a href="https://ibb.co/SBP2gFW"><img src="https://i.ibb.co/yqXDCHG/resultado-reg-lin.jpg" alt="resultado-reg-lin" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'><br/>
+     
+## Learning Process
 
+### Theory Used
+- Numpy
+- Pandas
+- MatplotLib and Seaborn
+- Linear Regression
+
+### Challanges
+- Apply the model for two non-linear variables;
+- Decrease the RMSE for the amount requested.
+ 
 ## Authors
 Letícia Fossato <br>
 [Gabriela Nakasato](https://github.com/gabrielanakasato)
