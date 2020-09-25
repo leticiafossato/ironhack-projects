@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/xfw3fRQ/DIAMOND2.jpg" alt="DIAMOND2" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SxcjMSV/DIAMOND3.png" alt="DIAMOND3" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'> </a>
 <h1>📈 Project 04 | Linear Regression </h1>
 
 ## Project Status
