@@ -30,3 +30,4 @@ Datasets was provided by IronHack. <br>
      - Search for outliers - comparing mean and median;
      - Calculate values to correct x,y and z;
      - Check correlations.
+- Apply the linear regression to predict the prices of diamonds.
