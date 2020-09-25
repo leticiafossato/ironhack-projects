@@ -5,11 +5,11 @@
 
 ## Table of Contents 
 - [Objective](#objective)
-- [Data Source](#data source)
+- [Data Source](#data_source)
 - [Resources](#Resources)
 - [Process](#Process)
 - [Results](#Results)
-- [Learning Process](#Learning Process)
+- [Learning Process](#Learning_Process)
 
 ## Objective
 The objective of this project is to create a model to predict prices of diamonds, practicing linear regression.
