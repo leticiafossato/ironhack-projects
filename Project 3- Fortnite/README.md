@@ -1,6 +1,9 @@
-<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/L0C0q84/IMAGE.jpg" alt="IMAGE" border="0"></a></a></p>
-<h1 align="center">:small_blue_diamond: Data Gathering & Visualization</h>
-<h2 align="center">:video_game: Fortnite</h>
+<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/841cFQX/FORTNITE2.jpg" alt="FORTNITE2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a></p>
+<h1 align="center">🔎 Project 03  | Data Gathering & Visualization</h>
+
+## Project Status
+:heavy_check_mark: Complete <br>
+➕ Improve Tableau Presentation using some classes tips
 
 ## Table of Contents:
 
@@ -9,7 +12,6 @@
 - [Goal](#goal)
 - [Step-to-Step](#Step-to-Step)
 - [Tableau](#Tableau)
-- [Status](#status)
 ---
 
 ## Motivation
@@ -51,5 +53,3 @@ What are Fortnite pro-players performance?
 ## Tableau
 <a href="https://public.tableau.com/profile/leticia.fossato#!/vizhome/Proj-Fortnite/Histria1?publish=yes">Tableau Public</a>
 
-## Status
-In Progress
