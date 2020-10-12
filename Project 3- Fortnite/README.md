@@ -46,7 +46,7 @@ What are Fortnite pro-players performance?
 - Store the results on my own database;<br>
 - Analyze results on Tableau.<br>
 
-## Challange
+## Challenge
 - Low public information about Fortnite to analyze;
 - Make the subject interesting for who don't play.
 
