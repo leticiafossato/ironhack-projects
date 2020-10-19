@@ -15,7 +15,7 @@
 
 ## Objective
 Build my own game from scratch. Put into practice the basic concepts of Python which I’ve learned on the first week of IronHack course.<br>
-For more informations click <a href="https://drive.google.com/file/d/1r4Yz2EtTEtVsi5UT_zQWrkVkfXpbvsAm/view?usp=sharing">here</a>.</br>
+For more informations click <a href="https://drive.google.com/file/d/1pu8BtTec2VSng1MV3S-VKaXWBFpbdKpv/view?usp=sharing">here</a>.</br>
 
 ### Game Choose
 > TIC-TAC-TOE
