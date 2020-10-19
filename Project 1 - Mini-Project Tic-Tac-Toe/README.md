@@ -13,19 +13,22 @@
 - [Author](#Author)
 
 ## Objective
-Build my own game from scratch. Put into practice the basic Python which I’ve learned on the first week of IronHack course.
+Build my own game from scratch. Put into practice the basic concepts of Python which I’ve learned on the first week of IronHack course.
 
 ### Game Choose
 > TIC-TAC-TOE
 
 ## Game Instructions
-**TIC-TAC-TOE** is uselly played on a piece of paper, but if you copy this code you can play it on your own laptop.
-How it Works? Two players write either O or X in a pattern of nine squares. The first player who places three Os or three Xs in a straight line wins In this virtual version, it's YOU x CPU.
-<br>Good luck!<br>
+**TIC-TAC-TOE** is uselly played on a piece of paper, but if you copy this code you can play it on your own laptop.<br>
+### How it Works? 
+Two players write either O or X in a pattern of nine squares. The first player who places three Os or three Xs in a straight line wins <br>
+In this virtual version, it's YOU x CPU.<br>
+Good luck!<br>
 
 ![](https://media0.giphy.com/media/JTtbeZQ5PREQFzohgC/giphy.gif)
 
-Copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or JupyterNotebook, then it's only run it.
+### Let's play?
+To start, copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or JupyterNotebook, then it's only run it.
 
 ## Challenges
 - Find the best format to display and enter data;
@@ -37,11 +40,11 @@ Copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or JupyterNo
 - Styling the text displayed on jupyter notebook (apply colors, bold etc).
 
 ## Theory applied
-[x] Lists (necessary to create the graph of game and to structure all the logic);
-[x] Error Handling (to delimit inputs of user);
-[x] Loops (while and for);
-[x] Sub-functions (to organize and structure all code);
-[x] Classes (to format the colors of data displayed);
+[x] Lists (necessary to create the graph of game and to structure all the logic);<br>
+[x] Error Handling (to delimit inputs of user);<br>
+[x] Loops (while and for);<br>
+[x] Sub-functions (to organize and structure all code);<br>
+[x] Classes (to format the colors of data displayed);<br>
  
 ## Author
 Letícia Fossato
