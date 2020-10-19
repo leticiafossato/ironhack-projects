@@ -10,6 +10,7 @@
 - [Challenges](#Challenges)
 - [New Learnings](#New-Learnings)
 - [Theory applied](#Theory-applied)
+- [Improvement](#Improvement)
 - [Author](#Author)
 
 ## Objective
@@ -20,8 +21,8 @@ Build my own game from scratch. Put into practice the basic concepts of Python w
 
 ## Game Instructions
 **TIC-TAC-TOE** is uselly played on a piece of paper, but if you copy this code you can play it on your own laptop.<br>
-### How it Works? 
-Two players write either O or X in a pattern of nine squares. The first player who places three Os or three Xs in a straight line wins <br>
+### How to Play? 
+Two players write either O or X in a pattern of nine squares. The first player who places three Os or three Xs in a straight line wins. <br>
 In this virtual version, it's YOU x CPU.<br>
 Good luck!<br>
 
@@ -46,5 +47,8 @@ To start, copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or
 [x] Sub-functions (to organize and structure all code);<br>
 [x] Classes (to format the colors of data displayed);<br>
  
+## Improvement
+- Build this game using pygame library.
+
 ## Author
 Letícia Fossato
