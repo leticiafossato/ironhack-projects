@@ -1,5 +1,5 @@
-<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/s5zqxjj/DIAMOND3.png" alt="DIAMOND3" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a></p>
-<h1 align="center">🎮 Project 1 | Tic-Tac-Toe </h1>
+<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/Jny8QCy/game3.jpg" alt="game3" border="0"></a></p>
+<h1 align="center">:arrow_forward: Project 1 | Tic-Tac-Toe </h1>
 
 ## Project Status
 :heavy_check_mark: Complete
