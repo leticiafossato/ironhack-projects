@@ -24,7 +24,6 @@ Build my own game from scratch. Put into practice the basic concepts of Python w
 ### How to Play? 
 Two players write either O or X in a pattern of nine squares. The first player who places three Os or three Xs in a straight line wins. <br>
 In this virtual version, it's YOU x CPU.<br>
-Good luck!<br>
 
 ![](https://media0.giphy.com/media/JTtbeZQ5PREQFzohgC/giphy.gif)
 
