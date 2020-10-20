@@ -24,7 +24,6 @@
 - Global Shark Attack File Informs: more people drown in a single year in the United States than have been killed by sharks throughout the <b>entire world in the last two centuries </b> . Is that true?
 
 ## Process
-
 1. Import database, analyse the shape,analyse the sample and store a backup;</br>
 </br>
 2. Clean the lines (drop mean>0.9 of null);</br>
