@@ -32,6 +32,7 @@
 - Type of data: <br>
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
 - Organizing:<br>
+
 |   Original  |    Transform    |  
 | ----------  | ----------------|  
 |  N,N and N  |       N         |   
