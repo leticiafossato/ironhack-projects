@@ -41,21 +41,16 @@
     |M            |       1          | 
     |2017         |       1          | 
     |y            |       1          | 
+    <br>
     <a href="https://i.imgur.com/zATl6Pm.jpg">+ Details</a>
 
     - Organizing:<br>
 
-    |   Original  |    Transform    |  
-    | ----------  | ----------------| 
-    |N            |      N          |   
-    |Y            |      Y          | 
-    |UNKNOWN      |    UNKNOWN      | 
-    |&nbsp;N      |      N          | 
-    |N&nbsp;      |      N          | 
-    |M            |    UNKNOWN      | 
-    |2017         |    UNKNOWN      | 
-    |y            |       Y         |     
-    |  NaN        |    UNKNOWN      | 
+    |   Original             |    Transform    |  
+    | ----------             | ----------------| 
+    |N,&nbsp;N, N&nbsp;      |      N          |   
+    |Y, y                    |      Y          | 
+    |UNKNOWN, M, 2017, NaN   |    UNKNOWN      | 
 
 6. Analyse the column 'Issues':<br>
 if 'Issues'=Fatal and 'Fatal (Y/N)'=UNKNOWN  than:
