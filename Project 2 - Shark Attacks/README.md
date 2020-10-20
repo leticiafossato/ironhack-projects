@@ -31,7 +31,7 @@
 5. Analyse the column 'Fatal (Y/N)':<br>
     - Type of data: <br>
     
-    |   Original  |     Transform    |  
+    |  Data       |     Quantity     |  
     | ----------  | -----------------|  
     |N            |      4293        |   
     |Y            |      1388        | 
@@ -41,14 +41,20 @@
     |M            |       1          | 
     |2017         |       1          | 
     |y            |       1          | 
+    <a href="https://i.imgur.com/zATl6Pm.jpg">+ Details</a>
 
     - Organizing:<br>
 
     |   Original  |    Transform    |  
-    | ----------  | ----------------|  
-    |  N,N and N  |       N         |   
-    |  Y and y    |       Y         | 
-    |  2017 and M |    UNKNOWN      | 
+    | ----------  | ----------------| 
+    |N            |      N          |   
+    |Y            |      Y          | 
+    |UNKNOWN      |    UNKNOWN      | 
+    |&nbsp;N      |      N          | 
+    |N&nbsp;      |      N          | 
+    |M            |    UNKNOWN      | 
+    |2017         |    UNKNOWN      | 
+    |y            |       Y         |     
     |  NaN        |    UNKNOWN      | 
 
 6. Analyse the column 'Issues':<br>
