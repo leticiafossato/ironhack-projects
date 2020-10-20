@@ -31,6 +31,14 @@
 5. Analyse the column 'Fatal (Y/N)':<br>
     - Type of data: <br>
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
+
+    |   Original  |    Transform    |  
+    | ----------  | ----------------|  
+    |N  |       N         |   
+    | N   |       Y         | 
+    |N |    UNKNOWN      | 
+    |  NaN        |    UNKNOWN      | 
+    
     - Organizing:<br>
 
     |   Original  |    Transform    |  
