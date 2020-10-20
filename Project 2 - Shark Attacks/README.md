@@ -30,7 +30,7 @@
 4. Drop column CaseNumber2; <br>
 5. Analyse the column 'Fatal (Y/N)':<br>
     - Type of data: <br>
-![type_data](https://i.imgur.com/zATl6Pm.jpg)
+    
     |   Original  |     Transform    |  
     | ----------  | -----------------|  
     |N            |      4293        |   
