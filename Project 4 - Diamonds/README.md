@@ -51,7 +51,7 @@ After a lot of attempts, we obtained:
 - MatplotLib and Seaborn
 - Linear Regression
 
-### Challanges
+### Challenges
 - Apply the model for two non-linear variables;
 - Decrease the RMSE for the amount requested.
  
