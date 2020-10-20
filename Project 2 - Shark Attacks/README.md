@@ -31,12 +31,14 @@
 5. Analyse the column 'Fatal (Y/N)':<br>
 - Type of data: <br>
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
-<br>
 - Organizing:<br>
-N,N and N -> N<br>
-Y and y   -> Y<br>
-2017 and M -> UNKNOWN<br>
-NaN -> UNKNOWN<br>
+|   Original  |    Transform    |  
+| ----------  | ----------------|  
+|  N,N and N  |       N         |   
+|  Y and y    |       Y         | 
+|  2017 and M |    UNKNOWN      | 
+|  NaN        |    UNKNOWN      | 
+
 6. Analyse the column 'Issues':<br>
 if 'Issues'=Fatal and 'Fatal (Y/N)'=UNKNOWN  than:
 repace UNKNOWN by Y<<br>
