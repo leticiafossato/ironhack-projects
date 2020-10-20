@@ -33,12 +33,12 @@
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
     - Organizing:<br>
 
-|   Original  |    Transform    |  
-| ----------  | ----------------|  
-|  N,N and N  |       N         |   
-|  Y and y    |       Y         | 
-|  2017 and M |    UNKNOWN      | 
-|  NaN        |    UNKNOWN      | 
+    |   Original  |    Transform    |  
+    | ----------  | ----------------|  
+    |  N,N and N  |       N         |   
+    |  Y and y    |       Y         | 
+    |  2017 and M |    UNKNOWN      | 
+    |  NaN        |    UNKNOWN      | 
 
 6. Analyse the column 'Issues':<br>
 if 'Issues'=Fatal and 'Fatal (Y/N)'=UNKNOWN  than:
