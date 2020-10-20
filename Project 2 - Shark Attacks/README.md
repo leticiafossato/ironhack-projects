@@ -29,9 +29,9 @@
 3. Clean the columns (drop if NaN mean>0.9);<br>
 4. Drop column CaseNumber2; <br>
 5. Analyse the column 'Fatal (Y/N)':<br>
-- Type of data: <br>
+    - Type of data: <br>
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
-- Organizing:<br>
+    - Organizing:<br>
 
 |   Original  |    Transform    |  
 | ----------  | ----------------|  
@@ -42,7 +42,7 @@
 
 6. Analyse the column 'Issues':<br>
 if 'Issues'=Fatal and 'Fatal (Y/N)'=UNKNOWN  than:
-repace UNKNOWN by Y<<br>
+replace UNKNOWN by Y<<br>
 7. Export the database to Excel (Exported_Files path):<br>
 shark_clean_fatal.csv<br>
 shark_clean_non_fatal.csv<br>
