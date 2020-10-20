@@ -60,8 +60,9 @@ The quantity of Fatal Accidents is significantly lower than Non-Fatal Accidents:
 | ---------- | -----------------   |  ---------------|
 |   1409     |       4301          |      592        |  
  </br>
- In percentage:</br>
- | % Fatal   |    % Non-Fatal    |     % Unknown   |
+ In percentage:
+ 
+| % Fatal    |    % Non-Fatal    |     % Unknown   |
 | ---------- | ----------------- |  ---------------|
 |  0.2235    |       0.6825      |      0.09394    |  
 
