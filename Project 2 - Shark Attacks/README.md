@@ -41,7 +41,7 @@
     |M            |       1          | 
     |2017         |       1          | 
     |y            |       1          | 
-    <br>
+    
     <a href="https://i.imgur.com/zATl6Pm.jpg">+ Details</a>
 
     - Organizing:<br>
