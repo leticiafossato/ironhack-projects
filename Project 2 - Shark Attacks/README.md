@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="160" height="140" src="https://imgshare.io/images/2020/09/01/shark_attack.png">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/SDSjQV1/shark5.jpg" alt="shark5" border="0"></a>
 </p>
 <h1 align="center">🧹 Project 02 | Data Cleaning </h>
 <h2 align="center">Are most shark accidents fatal or non-fatal?</h>
