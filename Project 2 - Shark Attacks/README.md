@@ -4,6 +4,9 @@
 <h1 align="center">🧹 Project 02 | Data Cleaning </h>
 <h2 align="center">Are most shark accidents fatal or non-fatal?</h>
 
+## Project Status
+:heavy_check_mark: Complete
+
 ## Table of Contents:
 
 - [Goal](#goal)
@@ -12,7 +15,6 @@
 - [Results](#results)
 - [Additional](#additional)
 - [Improvements](#improvements)
----
 
 ## Goal
 
