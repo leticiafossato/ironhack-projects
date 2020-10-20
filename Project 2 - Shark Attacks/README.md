@@ -33,7 +33,7 @@
 ![type_data](https://i.imgur.com/zATl6Pm.jpg)
     |   Original  |    Transform    |  
     | ----------  | ----------------|  
-    |&nbsp N  |       N         |   
+    |&nbsp; N  |       N         |   
     |N   |       Y         | 
     |N &nbsp |    UNKNOWN      | 
     |  NaN        |    UNKNOWN      | 
