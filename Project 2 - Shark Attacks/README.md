@@ -34,8 +34,8 @@
 
     |   Original  |    Transform    |  
     | ----------  | ----------------|  
-    |N  |       N         |   
-    |&nbspN   |       Y         | 
+    |<pre> N  </pe>|       N         |   
+    |N   |       Y         | 
     |N&nbsp |    UNKNOWN      | 
     |  NaN        |    UNKNOWN      | 
     
