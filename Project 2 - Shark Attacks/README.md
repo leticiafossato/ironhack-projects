@@ -35,8 +35,8 @@
     |   Original  |    Transform    |  
     | ----------  | ----------------|  
     |N  |       N         |   
-    | N   |       Y         | 
-    |N |    UNKNOWN      | 
+    |&nbspN   |       Y         | 
+    |N&nbsp |    UNKNOWN      | 
     |  NaN        |    UNKNOWN      | 
     
     - Organizing:<br>
