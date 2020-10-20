@@ -56,15 +56,15 @@ shark_clean_unknown.csv</br>
 
 ## Results 
 The quantity of Fatal Accidents is significantly lower than Non-Fatal Accidents: </br>
-
-<b>Qty Fatal = 1409 </b></br>
-Qty Non-Fatal = 4301  </br>
-Qty Unknown = 592 </br>
+| Qty Fatal  |    Qty Non-Fatal    |   Qty Unknown   |
+| ---------- | -----------------   |  ---------------|
+|   1409     |       4301          |      592        |  
  </br>
  In percentage:</br>
-<b>% Fatal = 0.22357981593145032</br></b>
-% Non-Fatal = 0.6824817518248175</br>
-% Unknown = 0.09393843224373215</br>
+ | % Fatal   |    % Non-Fatal    |     % Unknown   |
+| ---------- | ----------------- |  ---------------|
+|  0.2235    |       0.6825      |      0.09394    |  
+
 </br>
 Using the library matplotlib:</br>
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true"></br>
@@ -86,13 +86,15 @@ To answer the question made on the beggining (drowns vs fatal shark) I would hav
 
 ## Additional
 Using fatal attacks, I also analyse the quantity of each type: </br>
-provoked - 19</br>
-unprovoked- 1182</br>
-sea_disaster - 168</br>
-boating - 67</br>
-boat - 4</br>
 
-I tried to create a graph with this information, but it doesn't fit.</br>
+| Type         |    Qty   |  
+| ----------   | ---------|
+| provoked     |   19     |    
+| unprovoked   |   19     |  
+| sea_disaster |  168     | 
+| boating      | 67       | 
+| boat         | 4        | 
+
 > This result highlights that the shark attacks out of curiosity or unintentionally, more than by revenge.</br>
 
 > The sex with highest fatal rate is male (23,35%) vs female (16,95%). (approximated)
