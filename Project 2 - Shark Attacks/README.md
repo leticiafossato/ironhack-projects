@@ -14,7 +14,7 @@
 - [Process](#process)
 - [Results](#results)
 - [Additional](#additional)
-- [Improvements](#improvements)
+- [Learning Process](#learning-process)
 - [Author](#Author)
 
 ## Goal
@@ -113,7 +113,8 @@ Using fatal attacks, I also analyse the quantity of each type: </br>
 
 > The white shark is the specie with more case attacks registered, but it is responsible for only 19 of fatal deaths.
 
-## Improvements
+## Learning Process
+### Improvements
 - I answer the questions using mask, but if I restart I would use groupby to solve faster and clear the solution.</br>
 - I focus on extract data to answer questions about the database, but the designs of csv file could be cleaned better (some columns with space renamed and data sorted by year).
 
