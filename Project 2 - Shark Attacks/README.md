@@ -18,8 +18,8 @@
 
 ## Goal
 
-- Filter the dataset <a href="http://www.sharkattackfile.net/whystudy.htm">SharkAttackFile</a> to discover how many shark accidents was fatal, not fatal or unknown.</br>
-
+- Filter the dataset <a href="http://www.sharkattackfile.net/whystudy.htm">SharkAttackFile</a> to discover how many shark accidents was fatal, not fatal or unknown.<br>
+For more informations click <a href="https://drive.google.com/file/d/1t1-Ud2PbfCXpNpQX7bjy66saUXqjsmsa/view?usp=sharing">here</a>.</br>
 ### Motivation
 
 - An unreasonable fear of sharks has been implanted in our minds by the hype that surrounds the rare shark attack and by movies. 
