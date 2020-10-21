@@ -45,11 +45,11 @@ After a lot of attempts, we obtained:
      
 ## Learning Process
 
-### Theory Used
-- Numpy
-- Pandas
-- MatplotLib and Seaborn
-- Linear Regression
+### Theory Applied
+- [x] Numpy
+- [x] Pandas
+- [x] MatplotLib and Seaborn
+- [x] Linear Regression
 
 ### Challenges
 - Apply the model for two non-linear variables;
