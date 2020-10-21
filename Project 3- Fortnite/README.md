@@ -11,6 +11,7 @@
 - [Fortnite](#Fortnite)
 - [Goal](#goal)
 - [Step-to-Step](#Step-to-Step)
+- [Learning Process](#Learning-Process)
 - [Tableau](#Tableau)
 ---
 
@@ -46,6 +47,7 @@ What are Fortnite pro-players performance?
 - Store the results on my own database;<br>
 - Analyze results on Tableau.<br>
 
+### Learning Process
 ## Challenge
 - Low public information about Fortnite to analyze;
 - Make the subject interesting for who don't play.
