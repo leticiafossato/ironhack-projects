@@ -55,6 +55,9 @@ After a lot of attempts, we obtained:
 ### Challenges
 - Apply the model for two non-linear variables;
 - Decrease the RMSE for the amount requested.
+
+ ### Improvements
+ - Use target encoder on categorical variables;
  
 ## Authors
 Letícia Fossato <br>
