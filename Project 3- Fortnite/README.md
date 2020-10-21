@@ -10,7 +10,7 @@
 - [Motivation](#motivation)
 - [Fortnite](#Fortnite)
 - [Goal](#goal)
-- [Step-to-Step](#Step-to-Step)
+- [Process](#process)
 - [Learning Process](#Learning-Process)
 - [Tableau](#Tableau)
 ---
@@ -38,17 +38,17 @@ What are Fortnite pro-players performance?
 - Solo Kills / Match
 - Solo Kills / Minutes
 
-## Step-to-Step
-- Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup 2019;<br>
-- Use an API to collect the data about TOP 25 players (It's not informations about the World Cup);<br>
+## Process
+1. Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup 2019;<br>
+2. Use an API to collect the data about TOP 25 players (It's not informations about the World Cup);<br>
 <a href="https://dash.fortnite-api.com/">API Source <br></a>
-- Filter the players which profile it's privated or the data it's unavailable;<br>
-- Use an API to collect my data;<br>
-- Store the results on my own database;<br>
-- Analyze results on Tableau.<br>
+3. Filter the players which profile it's privated or the data it's unavailable;<br>
+4. Use the same API to collect my account data;<br>
+5. Store the results on my own database;<br>
+6. Analyze results on Tableau.<br>
 
-### Learning Process
-## Challenge
+## Learning Process
+### Challenge
 - Low public information about Fortnite to analyze;
 - Make the subject interesting for who don't play.
 
