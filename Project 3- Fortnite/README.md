@@ -13,7 +13,6 @@
 - [Process](#process)
 - [Learning Process](#Learning-Process)
 - [Tableau](#Tableau)
----
 
 ## Objectives
 This project it's composed by two objectives:<br>
