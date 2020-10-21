@@ -29,6 +29,13 @@ In this virtual version, it's YOU x CPU.<br>
 To start, copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or JupyterNotebook, then it's only run it.
 
 ## Learning Process
+### Theory applied
+- [x] Lists (necessary to create the graph of game and to structure all the logic);<br>
+- [x] Error Handling (to delimit inputs of user);<br>
+- [x] Loops (while and for);<br>
+- [x] Sub-functions (to organize and structure all code);<br>
+- [x] Classes (to format the colors of data displayed);<br>
+
 ### Challenges
 - Find the best format to display and enter data;
 - Structure the winner's logic;
@@ -37,13 +44,6 @@ To start, copy the code of "TIC_TAC_TOE.ipynb" and paste it into your Python3 or
 
 ### New Learnings
 - Styling the text displayed on jupyter notebook (apply colors, bold etc).
-
-### Theory applied
-- [x] Lists (necessary to create the graph of game and to structure all the logic);<br>
-- [x] Error Handling (to delimit inputs of user);<br>
-- [x] Loops (while and for);<br>
-- [x] Sub-functions (to organize and structure all code);<br>
-- [x] Classes (to format the colors of data displayed);<br>
  
 ### Improvement
 - Build this game using pygame library.
