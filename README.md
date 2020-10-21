@@ -2,7 +2,7 @@
 <h1> IronHack Projects</h1>
 Here you can check 4 projects, developed by me, during Data Analytics - IronHack course.<br>
 This is the beggining of my studies to become a Data analyst.<br>
-Course: Complete 09/09 Weeks
+Course Status: Complete 09/09 Weeks
 <br>
 
 ## 🎮 Project 01 | Tic-Tac-Toe
