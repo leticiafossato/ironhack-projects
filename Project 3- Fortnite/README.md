@@ -48,6 +48,7 @@ Here, will be analyzed only **Solo** informations:<br>
 
 ## Process
 1. Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup 2019;<br>
+  <a href="https://en.wikipedia.org/wiki/Fortnite_World_Cup">Web Scraping Source<br></a>
 2. Use an API to collect the data about TOP 25 players (It's not informations about the World Cup);<br>
 <a href="https://dash.fortnite-api.com/">API Source <br></a>
 3. Filter the players which profile it's privated or the data it's unavailable;<br>
