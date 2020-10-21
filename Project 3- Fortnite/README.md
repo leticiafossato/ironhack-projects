@@ -58,6 +58,11 @@ Here, will be analyzed only **Solo** informations:<br>
 6. Analyze results on Tableau.<br>
 
 ## Learning Process
+### Theory applied
+- [x] API;<br>
+- [x] Web Scraping;<br>
+- [x] Data Visualization;<br>
+
 ### Challenges
 - Low public information about Fortnite to analyze;
 - Choose only trustable players informations;
@@ -65,11 +70,6 @@ Here, will be analyzed only **Solo** informations:<br>
 
 ### New Learnings
 - The greatest teaching I had is that we can create a database about anything we like, includding about a game.
-
-### Theory applied
-- [x] API;<br>
-- [x] Web Scraping;<br>
-- [x] Data Visualization;<br>
 
 ### Improvements
 - Improve the Tableau presentation;
