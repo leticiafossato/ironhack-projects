@@ -23,3 +23,6 @@ I choose to search for informations about Fortnite (a shooting game very famous,
 Status: Improve Tableau Presentation<br>
 <br>
 ## 📈 Project 04 | Diamonds - Linear Regression
+Goal: Use the dataset "Diamonds" to predict the "Rick's diamonds" prices, using linear regression.<br>
+The model need to be improved until RMSE (root mean squared error) < 900.<br>
+Status: Complete<br>
