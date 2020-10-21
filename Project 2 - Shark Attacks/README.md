@@ -79,7 +79,7 @@ The quantity of Fatal Accidents is significantly lower than Non-Fatal Accidents:
 
 </br>
 Using the library matplotlib:</br>
-<img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true"><br>
+<p align="center"><img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Fatal.png?raw=true"><br></p>
 
 > Conclusion: Fatal shark attacks rarely happen.</br>
 
@@ -87,14 +87,14 @@ Using the library matplotlib:</br>
 Also, this database have informations before 1800 until 2018. Just for analysis, if we consider 1800 as the minimun(it isn't), 1409 is the quantity register for more than 218 years. <b>It means that we have about 7 (= 1409/218) fatal cases per year at the WORLD. Obs: This information is not precise because I don't focus on analyse the 'Year' column.</b></br>
 </br>
 To make a experience, I sum the Unknown rate to Fatal rate:</br>
-<img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true">
+<p align="center"><img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Results_Quantity_Without_Unknown.png?raw=true"></p>
 
 > So, even if we sum the fatal rate to unknown rate, the non-fatal still being greater.
 </br>
 To answer the question made on the beggining (drowns vs fatal shark) I would have another database with these informations. But, I don't have, so I seach for the quantity of drowns on USA per year, and I found the number: 3536 </br>  
 (source: <a href="https://www.cdc.gov/homeandrecreationalsafety/water-safety/waterinjuries-factsheet.html#:~:text=From%202005%2D2014%2C%20there%20were,drowning%20in%20boating%2Drelated%20incidents.&text=About%20one%20in%20five%20people,are%20children%2014%20and%20younger.">CDCGov</a>)</br>
 
-<img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Curiosity.png?raw=true"></br>
+<p align="center"><img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Curiosity.png?raw=true"></p></br>
 >So, the GSAF (Global Shark Attack Files) affirmation was right. The fatal shark rate of Entire World is lower than drowns per year on USA.</br>
 
 ### Additional
