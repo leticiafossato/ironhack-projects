@@ -5,12 +5,12 @@
 :heavy_check_mark: Complete
 
 ## Table of Contents 
-- [Objective](#objective)
+- [Goal](#goal)
 - [Game Instructions](#Game-Instructions)
 - [Learning Process](#Challenges)
 - [Author](#Author)
 
-## Objective
+## Goal
 Build my own game from scratch. Put into practice the basic concepts of Python which I’ve learned on the first week of IronHack course.<br>
 For more informations click <a href="https://drive.google.com/file/d/1pu8BtTec2VSng1MV3S-VKaXWBFpbdKpv/view?usp=sharing">here</a>.</br>
 
