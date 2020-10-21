@@ -13,7 +13,6 @@
 - [Motivation](#motivation)
 - [Process](#process)
 - [Results](#results)
-- [Additional](#additional)
 - [Learning Process](#learning-process)
 - [Author](#Author)
 
@@ -96,7 +95,7 @@ To answer the question made on the beggining (drowns vs fatal shark) I would hav
 >So, the GSAF (Global Shark Attack Files) affirmation was right. The fatal shark rate of Entire World is lower than drowns per year on USA.</br>
 </br>
 
-## Additional
+### Additional
 Using fatal attacks, I also analyse the quantity of each type: </br>
 
 | Type         |    Qty   |  
@@ -111,7 +110,7 @@ Using fatal attacks, I also analyse the quantity of each type: </br>
 
 > The sex with highest fatal rate is male (23,35%) vs female (16,95%). (approximated)
 
-> The white shark is the specie with more case attacks registered, but it is responsible for only 19 of fatal deaths.
+> The white shark is the specie with more case attacks registered, but it is only responsible for 19 of fatal deaths.
 
 ## Learning Process
 ### Challenges
