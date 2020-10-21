@@ -25,4 +25,5 @@ Status: Improve Tableau Presentation<br>
 ## 📈 Project 04 | Diamonds - Linear Regression
 Goal: Use the dataset "Diamonds" to predict the "Rick's diamonds" prices, using linear regression.<br>
 The model need to be improved until RMSE (root mean squared error) < 900.<br>
+This project was developed in duo.
 Status: Complete<br>
