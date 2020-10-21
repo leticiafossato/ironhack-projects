@@ -7,13 +7,24 @@
 
 ## Table of Contents:
 
+- [Objectives](#objectives)
 - [Motivation](#motivation)
 - [Fortnite](#Fortnite)
-- [Goal](#goal)
 - [Process](#process)
 - [Learning Process](#Learning-Process)
 - [Tableau](#Tableau)
 ---
+
+## Objectives
+This project it's composed by two objectives:
+1. Obtain data from different sources (using API and Web-Scraping) and store it in a database;
+2. Build a data visualization using tableau.
+To acess complete goal informations click <a href="https://drive.google.com/file/d/1UsuG9z6tOWtnzZscf_9pOahTNOaLV8bi/view?usp=sharing">here</a> (part01) and <a href="https://drive.google.com/file/d/1fCvSx39gTZ-3P04H0vqlmAsia2tMqt_6/view?usp=sharing">here</a>(part02).
+
+
+### Specific Objective
+The database that I chose to build refers to a game called Fortnite, the specific objective of my analysis it's to answer:
+> What are Fortnite pro-players performance? 
 
 ## Motivation
 On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
@@ -26,17 +37,15 @@ To win a match, you need to be the last one to survive.<br>
 Each match have 100 players. <br>
 You can shot and also construct to deffend yourself.<br>
 The Game Have 4 Modes: Solo, Duo, Squad, Creative.<br> 
-Here, will be analyzed only informations about Solo.
+Here, will be analyzed only **Solo** informations:<br> 
+- Solo Matches; <br> 
+- Solo Minutes Played; <br> 
+- Solo Kills / Match; <br> 
+- Solo Kills / Minutes; <br> 
+
 <p align="center">
   <img src="https://i.imgur.com/AUbj4rS.jpg">
 </p>
-
-## Goal
-What are Fortnite pro-players performance? 
-- Solo Matches
-- Solo Minutes Played
-- Solo Kills / Match
-- Solo Kills / Minutes
 
 ## Process
 1. Use raw web-scraping to collect who are TOP 25 players best classified at Fortnite's World Cup 2019;<br>
@@ -48,9 +57,10 @@ What are Fortnite pro-players performance?
 6. Analyze results on Tableau.<br>
 
 ## Learning Process
-### Challenge
+### Challenges
 - Low public information about Fortnite to analyze;
-- Make the subject interesting for who don't play.
+- Choose only trustable players informations;
+- Make the subject interesting for who doesn't play.
 
 ## Tableau
 <a href="https://public.tableau.com/profile/leticia.fossato#!/vizhome/Proj-Fortnite/Histria1?publish=yes">Tableau Public</a>
