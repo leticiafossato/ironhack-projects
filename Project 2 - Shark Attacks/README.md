@@ -2,7 +2,6 @@
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/SDSjQV1/shark5.jpg" alt="shark5" border="0"></a>
 </p>
 <h1 align="center">🧹 Project 02 | Data Cleaning </h>
-<h2 align="center">Shark Attacks </h2>
 
 ## Project Status
 :heavy_check_mark: Complete
