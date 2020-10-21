@@ -59,7 +59,7 @@ To acess complete objective informations click <a href="https://drive.google.com
 
 6. Analyse the column 'Issues':<br>
 if 'Issues'=Fatal and 'Fatal (Y/N)'=UNKNOWN  than:
-replace UNKNOWN by Y<<br>
+replace UNKNOWN by Y; <br>
 7. Export the database to Excel (Exported_Files path):<br>
 shark_clean_fatal.csv<br>
 shark_clean_non_fatal.csv<br>
