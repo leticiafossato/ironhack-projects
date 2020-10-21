@@ -15,9 +15,10 @@
 - [Tableau](#Tableau)
 
 ## Objectives
-This project it's composed by two objectives:<br>
+This project it's composed by two parts:<br>
 - Part01: Obtain data from different sources (using API and Web-Scraping) and store it in a database;<br>
 - Part02: Build a data visualization using tableau.<br>
+
 To acess complete objective informations click: <a href="https://drive.google.com/file/d/1UsuG9z6tOWtnzZscf_9pOahTNOaLV8bi/view?usp=sharing">part01</a> and <a href="https://drive.google.com/file/d/1fCvSx39gTZ-3P04H0vqlmAsia2tMqt_6/view?usp=sharing">part02</a>.
 
 ### Specific Objective
