@@ -14,6 +14,7 @@
 
 ## Objective
 The objective of this project is to create a model to predict prices of diamonds, practicing linear regression.
+To acess complete objective informations click <a href="https://drive.google.com/file/d/1SR_lkpSamfoPeFckpfvM4PskhPhkzA3l/view?usp=sharing">here</a>.
 
 ### Problem Statement
 > The price predicted needs to have a root mean squared error lower than 900 dollars.
