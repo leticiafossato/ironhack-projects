@@ -13,7 +13,7 @@
 - [Authors](#Authors)
 
 ## Objective
-The objective of this project is to create a model to predict prices of diamonds, practicing linear regression.
+The objective of this project is to create a model to predict prices of diamonds, practicing linear regression.<br>
 To acess complete objective informations click <a href="https://drive.google.com/file/d/1SR_lkpSamfoPeFckpfvM4PskhPhkzA3l/view?usp=sharing">here</a>.
 
 ### Problem Statement
