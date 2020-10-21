@@ -125,10 +125,10 @@ Using fatal attacks, I also analyse the quantity of each type: </br>
 - Display information visually (matplotlib).
 
 ### Theory Applied
- [x] Pandas (Import and Export data)<br>
- [x] Explore Analysis Data<br>
- [x] Data Manipulation (Filtering)<br>
- [x] Data Cleaning <br>
+- [x]  Pandas (Import and Export data)<br>
+- [x] Explore Analysis Data<br>
+- [x] Data Manipulation (Filtering)<br>
+- [x] Data Cleaning <br>
 
 ### Improvements
 - I answer the questions using mask, but if I restart I would use groupby to solve faster and clear the solution.</br>
