@@ -67,9 +67,9 @@ Here, will be analyzed only **Solo** informations:<br>
 - The greatest teaching I had is that we can create a database about anything we like, includding about a game.
 
 ### Theory applied
-[x] API;<br>
-[x] Web Scraping;<br>
-[x] Data Visualization;<br>
+- [x] API;<br>
+- [x] Web Scraping;<br>
+- [x] Data Visualization;<br>
 
 ### Improvements
 - Improve the Tableau presentation;
