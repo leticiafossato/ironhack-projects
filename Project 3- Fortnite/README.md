@@ -16,20 +16,19 @@
 ---
 
 ## Objectives
-This project it's composed by two objectives:
-1. Obtain data from different sources (using API and Web-Scraping) and store it in a database;
-2. Build a data visualization using tableau.
-To acess complete goal informations click <a href="https://drive.google.com/file/d/1UsuG9z6tOWtnzZscf_9pOahTNOaLV8bi/view?usp=sharing">here</a> (part01) and <a href="https://drive.google.com/file/d/1fCvSx39gTZ-3P04H0vqlmAsia2tMqt_6/view?usp=sharing">here</a>(part02).
-
+This project it's composed by two objectives:<br>
+1. Obtain data from different sources (using API and Web-Scraping) and store it in a database;<br>
+2. Build a data visualization using tableau.<br>
+To acess complete objective informations click: <a href="https://drive.google.com/file/d/1UsuG9z6tOWtnzZscf_9pOahTNOaLV8bi/view?usp=sharing">part01</a> and <a href="https://drive.google.com/file/d/1fCvSx39gTZ-3P04H0vqlmAsia2tMqt_6/view?usp=sharing">part02</a>.
 
 ### Specific Objective
-The database that I chose to build refers to a game called Fortnite, the specific objective of my analysis it's to answer:
+I decided to build a database about Fornite (game), to answer this "business" question:
 > What are Fortnite pro-players performance? 
 
 ## Motivation
 On quarentine, I started to play Fortnite with my boyfriend and my friends.<br>
 This motivated me to search about the best players of the game, and how many money they earns just playing.<br>
-Also, I want to compare my account stats with pro-players.<br>
+Also, I want to compare my account stats with pro-players stats.<br>
 
 ## Fortnite
 It's a FPS Online Game.<br> 
@@ -61,6 +60,17 @@ Here, will be analyzed only **Solo** informations:<br>
 - Low public information about Fortnite to analyze;
 - Choose only trustable players informations;
 - Make the subject interesting for who doesn't play.
+
+### New Learnings
+- The greatest teaching I had is that we can create a database about anything we like, includding about a game.
+
+### Theory applied
+[x] API;<br>
+[x] Web Scraping;<br>
+[x] Data Visualization;<br>
+
+### Improvements
+- Improve the Tableau presentation;
 
 ## Tableau
 <a href="https://public.tableau.com/profile/leticia.fossato#!/vizhome/Proj-Fortnite/Histria1?publish=yes">Tableau Public</a>
