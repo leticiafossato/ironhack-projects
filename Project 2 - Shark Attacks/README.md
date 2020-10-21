@@ -95,7 +95,7 @@ To answer the question made on the beggining (drowns vs fatal shark) I would hav
 (source: <a href="https://www.cdc.gov/homeandrecreationalsafety/water-safety/waterinjuries-factsheet.html#:~:text=From%202005%2D2014%2C%20there%20were,drowning%20in%20boating%2Drelated%20incidents.&text=About%20one%20in%20five%20people,are%20children%2014%20and%20younger.">CDCGov</a>)</br>
 
 <p align="center"><img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Curiosity.png?raw=true"></p></br>
->So, the GSAF (Global Shark Attack Files) affirmation was right. The fatal shark rate of Entire World is lower than drowns per year on USA.</br>
+> So, the GSAF (Global Shark Attack Files) affirmation was right. The fatal shark rate of Entire World is lower than drowns per year on USA.</br>
 
 ### Additional
 Using fatal attacks, I also analyse the quantity of each type: </br>
