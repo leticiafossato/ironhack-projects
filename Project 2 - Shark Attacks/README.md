@@ -96,7 +96,6 @@ To answer the question made on the beggining (drowns vs fatal shark) I would hav
 
 <img align="center" src="https://github.com/leticiafossato/ironhack-projects/blob/master/Project%202%20-%20Shark%20Attacks/Image%20Graphs/Curiosity.png?raw=true"></br>
 >So, the GSAF (Global Shark Attack Files) affirmation was right. The fatal shark rate of Entire World is lower than drowns per year on USA.</br>
-</br>
 
 ### Additional
 Using fatal attacks, I also analyse the quantity of each type: </br>
