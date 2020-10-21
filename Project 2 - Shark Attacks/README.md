@@ -20,7 +20,7 @@
 
 - Apply different cleaning and manipulation techniques to generate a cleaner CSV version of the dataset
 <a href="http://www.sharkattackfile.net/whystudy.htm">SharkAttackFile</a>.<br>
-For more informations click <a href="https://drive.google.com/file/d/1t1-Ud2PbfCXpNpQX7bjy66saUXqjsmsa/view?usp=sharing">here</a>.
+To acess complete goal informations click <a href="https://drive.google.com/file/d/1t1-Ud2PbfCXpNpQX7bjy66saUXqjsmsa/view?usp=sharing">here</a>.
 ### Business question
 > Are most shark accidents fatal or non-fatal?
 
