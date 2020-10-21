@@ -114,8 +114,19 @@ Using fatal attacks, I also analyse the quantity of each type: </br>
 > The white shark is the specie with more case attacks registered, but it is responsible for only 19 of fatal deaths.
 
 ## Learning Process
+### Challenges
+- Understand the dataset;
+- Choose which columns explore;
+- Organize the column Fatal (Y/N);
+
 ### New Learnings
 - Display information visually (matplotlib).
+
+### Theory Applied
+ [x] Pandas (Import and Export data)
+ [x] Explore Analysis Data
+ [x] Data Manipulation (Filtering)
+ [x] Data Cleaning 
 
 ### Improvements
 - I answer the questions using mask, but if I restart I would use groupby to solve faster and clear the solution.</br>
