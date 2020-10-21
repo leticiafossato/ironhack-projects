@@ -13,6 +13,7 @@
 - [Process](#process)
 - [Learning Process](#Learning-Process)
 - [Tableau](#Tableau)
+- [Author](#Author)
 
 ## Objectives
 This project it's composed by two parts:<br>
@@ -76,3 +77,5 @@ Here, will be analyzed only **Solo** informations:<br>
 ## Tableau
 <a href="https://public.tableau.com/profile/leticia.fossato#!/vizhome/Proj-Fortnite/Histria1?publish=yes">Tableau Public</a>
 
+## Author
+Letícia Fossato
