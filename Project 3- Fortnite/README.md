@@ -65,7 +65,7 @@ Here, will be analyzed only **Solo** informations:<br>
 
 ### Challenges
 - Low public information about Fortnite to analyze;
-- Choose only trustable players informations;
+- Clean the dataset to select only trustable informations;
 - Make the subject interesting for who doesn't play.
 
 ### New Learnings
